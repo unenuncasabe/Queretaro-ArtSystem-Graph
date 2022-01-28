@@ -1,0 +1,1414 @@
+"~id","~labels","name","founded_in","type","year","gender","origin"
+"0","Place","Museo de la Ciudad ","1997","Espacio público estatal",,,
+"1","Place","Galería Libertad","1987","Espacio público estatal",,,
+"2","Place","Galería Municipal","2008","Espacio público municipal",,,
+"3","Place","Galería DaSubstanz","2014","Galería y venta de arte",,,
+"4","Place","Galería Impulso","2015","Galería y venta de arte",,,
+"5","Place","Museo de Arte Contemporáneo de Querétaro","2018","Espacio público estatal",,,
+"6","Place","Galería Balneario","2015","Galería y venta de arte",,,
+"7","Place","Galería Madriguera Gráfica","2015","Galería-Taller y venta de arte",,,
+"8","Place","Pop-ups en Querétaro","1990","Venta y exhibición de arte",,,
+"9","Place","Diegorose","2018","Galería y venta de arte",,,
+"10","Place","Centro de Arte Bernardo Quintana Arrioja","2004","Espacio universitario",,,
+"11","Place","Galería Pazall","2019","Galería y venta de arte",,,
+"12","Place","Galería Nuun","2014","Galería y venta de arte",,,
+"13","Place","Museo Regional de Querétaro","1987","Espacio público federal",,,
+"14","Place","Museo de Arte de Querétaro","1988","Espacio público estatal",,,
+"15","Place","Galería Rizoma","2017","Exhibición de arte",,,
+"16","Place","Galería 1 y 2 CECEQ","2003","Espacio público estatal",,,
+"17","Place","Centro de las Artes de Querétaro","1996","Espacio público estatal",,,
+"18","Place","Fundación Carol Rolland","2014","Galería y venta de arte",,,
+"19","Place","BEMA","2019","Exhibición de arte",,,
+"20","Place","ARCA","2013","Galería y venta de arte",,,
+"21","Place","Antigua estación del Ferrocarril","2015","Espacio público municipal",,,
+"22","Place","Centro Cultural Ciudad Maderas","2015","Espacio público municipal",,,
+"23","Place","Ánimas","2017","Exhibición de arte",,,
+"24","Place","Museo de Arte Sacro","2015","Exhibición de arte",,,
+"25","Place","Museo de los Conspiradores","2015","Espacio público estatal",,,
+"27","Place","Casa Ignacio Mena","1971","Espacio público municipal",,,
+"30","Place","Bo Concept","2019","Venta y exhibición de arte",,,
+"31","Place","Convivio","2019","Venta y exhibición de arte",,,
+"32","Place","Arte Por favor","2019","Venta y exhibición de arte",,,
+"34","Place","Outsiders Gallery","2019","Venta y exhibición de arte",,,
+"35","Place","Vive Arte Querétaro",2019,"Venta y exhibición de arte",,,
+"36","Exhibition","Zoo Sapiens",,"individual",2016,,
+"37","Exhibition","Zonas de opacidad",,"individual",2017,,
+"38","Exhibition","Zona tr3s",,"colectiva",2019,,
+"40","Exhibition","Yelmos",,"individual",2013,,
+"41","Exhibition","Voyager III",,"individual",2015,,
+"42","Exhibition","Vollager III",,"individual",2015,,
+"43","Exhibition","Volver a nacer",,"individual",2012,,
+"44","Exhibition","Voluntades descompuestas",,"individual",2012,,
+"45","Exhibition","Voluntades Cotidianas",,"individual",2015,,
+"46","Exhibition","Visionarios",,"individual",2017,,
+"47","Exhibition","Visible invisibilización",,"colectiva",2018,,
+"48","Exhibition","Vitruvio",,"individual",2012,,
+"49","Exhibition","Vía",,"individual",2019,,
+"50","Exhibition","Vivir arriba",,"individual",2018,,
+"51","Exhibition","Visual Bilingue TDAH",,"individual",2016,,
+"52","Exhibition","Vendimia Mextonia",,"colectiva",2017,,
+"53","Exhibition","Venta de Ilustradores",,"colectiva",2018,,
+"54","Exhibition","Veintitrés",,"individual",2019,,
+"55","Exhibition","Vergüenza o Paz",,"colectiva",2019,,
+"56","Exhibition","Vale Verga",,"individual",2014,,
+"57","Exhibition","Utopía Ambulante Editando a la deriva",,"individual",2012,,
+"58","Exhibition","Urban mistresses",,"colectiva",2017,,
+"59","Exhibition","Unspecified fragments",,"individual",2015,,
+"60","Exhibition","Un fantasma recorre el arte",,"individual",2017,,
+"61","Exhibition","Una exposición Bicéfala",,"individual",2018,,
+"62","Exhibition","Un fantasma japonés",,"individual",2018,,
+"63","Exhibition","Un lugar para nombrar",,"individual",2018,,
+"64","Exhibition","Umbral",,"colectiva",2018,,
+"65","Exhibition","Últimas tendencias del grabado. Exposición colectiva",,"colectiva",2020,,
+"66","Exhibition","Transformaciones corporales NEXTIA",,"individual",2019,,
+"67","Exhibition","Triste suerte de los peces voladores",,"individual",2015,,
+"68","Exhibition","Trámite Buró para coleccionistas",,"colectiva",2018,,
+"69","Exhibition","Transicional",,"individual",2016,,
+"70","Exhibition","Trueno tropical",,"individual",2018,,
+"71","Exhibition","Todos somos el Cuerpo",,"individual",2015,,
+"72","Exhibition","Totalidad fragmentada",,"individual",2019,,
+"73","Exhibition","Tooco",,"individual",2014,,
+"74","Exhibition","Tinta, papel y otros cuentos",,"individual",2012,,
+"75","Exhibition","Tipologías del silencio",,"individual",2015,,
+"76","Exhibition","Tinieblas y confites",,"individual",2015,,
+"77","Exhibition","The dogs are barking and what´s done is done",,"individual",2013,,
+"78","Exhibition","Testimonio encuentro",,"individual",2018,,
+"79","Exhibition","Testimonio del encuentro",,"individual",2016,,
+"80","Exhibition","Tentaciones",,"individual",2007,,
+"81","Exhibition","Terror del papel",,"individual",2015,,
+"82","Exhibition","Temporal. Siempre es para nada",,"individual",2016,,
+"83","Exhibition","Tebori Genética",,"individual",2019,,
+"84","Exhibition","Territorio Nahual",,"colectiva",2016,,
+"85","Exhibition","Tempestad",,"individual",2015,,
+"86","Exhibition","Tangente",,"colectiva",2017,,
+"88","Exhibition","Swipe left",,"individual",2017,,
+"89","Exhibition","Sujeto Metafísico",,"individual",2013,,
+"90","Exhibition","Starbuckstlán",,"individual",2018,,
+"92","Exhibition","Soup, cosmos & tears",,"individual",2017,,
+"93","Exhibition","Sobre la calle, lo desechable y lo efímero",,"individual",2019,,
+"94","Exhibition","Solo vine por el postre",,"individual",2019,,
+"95","Exhibition","Sobre lo natural: poéticas de la transformación",,"colectiva",2019,,
+"96","Exhibition","Sociedades Contemporáneas Construcción y resignificación",,"colectiva",2017,,
+"97","Exhibition","Sobre el olvido y la memoria",,"individual",2011,,
+"98","Exhibition","Sostener",,"individual",2020,,
+"99","Exhibition","Si la intuición fuera un ave",,"individual",2015,,
+"100","Exhibition","Simiplicity",,"individual",2014,,
+"101","Exhibition","Sí",,"colectiva",2015,,
+"102","Exhibition","Siniestro",,"individual",2017,,
+"103","Exhibition","Sin tierra",,"individual",2020,,
+"104","Exhibition","Sin datos duros",,"colectiva",2016,,
+"105","Exhibition","Sincretismos queretanos",,"colectiva",2017,,
+"106","Exhibition","Sistemas de la imaginación",,"individual",2016,,
+"107","Exhibition","Si no, no",,"individual",2015,,
+"108","Exhibition","Siete perspectivas de una silla",,"individual",2018,,
+"109","Exhibition","Silencio",,"colectiva",2019,,
+"110","Exhibition","Siete voces para una autopsia",,"individual",2014,,
+"111","Exhibition","Shapes of blue",,"colectiva",2018,,
+"112","Exhibition","Seminis",,"individual",2017,,
+"113","Exhibition","Selección, escrutinio, disección y taxidermia",,"individual",2019,,
+"114","Exhibition","Segunda expo vendimia",,"colectiva",2018,,
+"115","Exhibition","Sensaciones vertebradas",,"individual",2016,,
+"116","Exhibition","Semillas",,"individual",2017,,
+"117","Exhibition","Selección natural",,"individual",2019,,
+"118","Exhibition","Septimo Aniversario Galería Municipal",,"colectiva",2009,,
+"119","Exhibition","Screen Histology",,"individual",2013,,
+"120","Exhibition","Salón de la plástica contemporánea queretana",,"colectiva",2015,,
+"121","Exhibition","Saudade",,"individual",2018,,
+"122","Exhibition","Sade",,"individual",2014,,
+"123","Exhibition","Salmo 22",,"individual",2014,,
+"124","Exhibition","Ruido en la mente",,"individual",2014,,
+"125","Exhibition","ROTO",,"individual",2014,,
+"126","Exhibition","Rojo desierto",,"individual",2017,,
+"127","Exhibition","Rock Paper Scissors",,"colectiva",2019,,
+"128","Exhibition","Rostros en el tiempo",,"colectiva",2017,,
+"129","Exhibition","Rojo Sandía",,"individual",2016,,
+"130","Exhibition","Rolling stones",,"individual",2020,,
+"131","Exhibition","Rituales",,"individual",2017,,
+"132","Exhibition","RIZOMA Boardripper 2015",,"colectiva",2015,,
+"133","Exhibition","Retrospectiva",,"individual",2018,,
+"134","Exhibition","Reinterpretando a los bárbaros",,"individual",2017,,
+"135","Exhibition","Reboot urbano",,"colectiva",2017,,
+"136","Exhibition","Remote Awakening",,"individual",2012,,
+"138","Exhibition","Resonancias",,"colectiva",2008,,
+"139","Exhibition","Relatos náufragos de otro lugar",,"individual",2012,,
+"140","Exhibition","Representación ventas 2020",,"colectiva",2020,,
+"141","Exhibition","Representación ventas 2019",,"colectiva",2019,,
+"142","Exhibition","Representación ventas 2018",,"colectiva",2017,,
+"143","Exhibition","Rascagüele",,"individual",2016,,
+"144","Exhibition","Querétaro Ilustra",,"colectiva",2017,,
+"145","Exhibition","Quien consume, se consume",,"individual",2019,,
+"146","Exhibition","Presas de casa",,"individual",2010,,
+"147","Exhibition","Print Show",,"colectiva",2016,,
+"149","Exhibition","Presencia y mediación",,"individual",2015,,
+"150","Exhibition","Print Show 2da edición",,"colectiva",2016,,
+"151","Exhibition","Premio Nacional de Pintura Julio Castillo",,"individual",2014,,
+"152","Exhibition","Print Show venta colectiva de gráfica",,"colectiva",2018,,
+"153","Exhibition","Proyecciones rizomáticas",,"colectiva",2015,,
+"154","Exhibition","Poética urbana",,"individual",2015,,
+"155","Exhibition","Por confirmar",,"individual",2014,,
+"156","Exhibition","Plástica contemporánea Queretana",,"colectiva",2019,,
+"157","Exhibition","Plan de Paris",,"individual",2016,,
+"158","Exhibition","Pintura descompuesta",,"individual",2015,,
+"159","Exhibition","Pintura",,"individual",2015,,
+"160","Exhibition","Pintamuertos",,"individual",2015,,
+"161","Exhibition","Pintura Construida",,"individual",2012,,
+"162","Exhibition","Phenomena Naturales",,"individual",2018,,
+"163","Exhibition","Pensamientos viajeros",,"individual",2019,,
+"164","Exhibition","Perversa evolución",,"individual",2014,,
+"165","Exhibition","Perséfone",,"individual",2018,,
+"166","Exhibition","Pequeñas reflexiones Ilustradas",,"individual",2018,,
+"167","Exhibition","Panta Rei",,"individual",2017,,
+"168","Exhibition","País de ofrendas",,"individual",2018,,
+"169","Exhibition","Pareidolias",,"individual",2019,,
+"170","Exhibition","Paisajes de lo virtual",,"individual",2014,,
+"171","Exhibition","Otras Miradas (UAQ) FBA",,"individual",2014,,
+"172","Exhibition","Open studio 3a edición",,"colectiva",2016,,
+"173","Exhibition","Open studio verano",,"colectiva",2016,,
+"174","Exhibition","Open Studio Ed Invierno",,"colectiva",2015,,
+"175","Exhibition","Onironauta",,"individual",2017,,
+"176","Exhibition","Obstrucción y referencia",,"individual",2014,,
+"177","Exhibition","Nuestros territorios quemados",,"individual",2015,,
+"178","Exhibition","Nuevas Narrativas. Pintura Contemporánea Mexicana",,"colectiva",2018,,
+"179","Exhibition","Noche de museos Exposición colectiva",,"colectiva",2018,,
+"180","Exhibition","No Desierto",,"individual",2019,,
+"181","Exhibition","No pintura",,"individual",2015,,
+"182","Exhibition","Nostalgia prestada",,"individual",2015,,
+"183","Exhibition","NIDOS",,"individual",2014,,
+"184","Exhibition","Negra fortuna",,"colectiva",2019,,
+"185","Exhibition","Navidad en Colectiva",,"colectiva",2019,,
+"186","Exhibition","NA`LU`UM",,"individual",2017,,
+"187","Exhibition","Naturaleza y pigmentos",,"individual",2018,,
+"188","Exhibition","Muto",,"individual",2012,,
+"189","Exhibition","MUTE",,"individual",2017,,
+"190","Exhibition","Mundos Alternos",,"individual",2011,,
+"191","Exhibition","Murales Colectivos",,"colectiva",2015,,
+"192","Exhibition","Muestra colectiva de pintura Bienal Nacional de Pintura Centenario de la constitución",,"colectiva",2017,,
+"193","Exhibition","Mundo Cómic II",,"colectiva",2018,,
+"194","Exhibition","Museo de los conspiradores",,"colectiva",2015,,
+"196","Exhibition","Mujeres, imaginación y realidad",,"individual",2014,,
+"197","Exhibition","MONOTIPOS",,"individual",2019,,
+"198","Exhibition","MilnovecientosOchentaycuatro",,"colectiva",2016,,
+"199","Exhibition","Mito del Sol y la Luna",,"individual",2015,,
+"201","Exhibition","Miradas hacia el pastel",,"colectiva",2017,,
+"202","Exhibition","Miradas encontradas",,"colectiva",2018,,
+"203","Exhibition","Mitologías de lo natural",,"colectiva",2017,,
+"204","Exhibition","Minae",,"individual",2018,,
+"205","Exhibition","Memoria y horizonte",,"individual",2014,,
+"206","Exhibition","Memoria y Horizonte",,"individual",2015,,
+"207","Exhibition","Menos Zero",,"individual",2014,,
+"208","Exhibition","Mercado negro",,"colectiva",2017,,
+"209","Exhibition","Memento Mori",,"colectiva",2019,,
+"210","Exhibition","Memorias del imperio",,"individual",2017,,
+"211","Exhibition","Mecanismos de luz y pequeñas fricciones",,"individual",2014,,
+"212","Exhibition","Metáforas",,"individual",2014,,
+"213","Exhibition","Menorragia, inscripciones sanguíneas",,"individual",2015,,
+"214","Exhibition","Malleus Maleficarum",,"colectiva",2019,,
+"215","Exhibition","Más de 2000 maneras de destruir un libro",,"individual",2015,,
+"216","Exhibition","Masters&Pieces BoConcept",,"individual",2015,,
+"217","Exhibition","Mausoleos Familiares",,"individual",2020,,
+"218","Exhibition","Más allá de Niños de dulce",,"individual",2017,,
+"219","Exhibition","Marcatiempos, observatorio gráfico de manías coridianas",,"individual",2017,,
+"220","Exhibition","Mapas. De una cartografía en metal a una cartografía digital",,"colectiva",2016,,
+"221","Exhibition","Lo primitivo",,"individual",2016,,
+"222","Exhibition","Lo común y lo colectivo",,"individual",2012,,
+"223","Exhibition","Loop infinito",,"colectiva",2015,,
+"224","Exhibition","Lo que nos falta",,"colectiva",2016,,
+"225","Exhibition","Love is a dog from hell. El amor nos vuelve Mensos1",,"individual",2017,,
+"226","Exhibition","Los días van tan rápido en la Corriente oscura",,"individual",2017,,
+"227","Exhibition","Los que mueren son los Otros",,"individual",2017,,
+"228","Exhibition","Los zapatos sirios",,"colectiva",2018,,
+"229","Exhibition","Lo peor de nosotros",,"colectiva",2016,,
+"230","Exhibition","Los desastres colaterales",,"individual",2017,,
+"231","Exhibition","Los trabajos de Hércules",,"individual",2015,,
+"232","Exhibition","Lo que quiero decir es",,"individual",2013,,
+"233","Exhibition","Loop frontier",,"colectiva",2016,,
+"234","Exhibition","Lo que veo en lo que veo",,"individual",2018,,
+"235","Exhibition","LOCA",,"individual",2013,,
+"236","Exhibition","Los cánticos de las criaturas",,"individual",2019,,
+"237","Exhibition","Lo ritual y lo habitual",,"individual",2020,,
+"238","Exhibition","Los ciegos guiando a los ciegos18",,"individual",2018,,
+"239","Exhibition","Llamadas perdidas de familia muerta",,"individual",2017,,
+"240","Exhibition","Libres, Salvajes y Zorros",,"individual",2019,,
+"241","Exhibition","Líderes Errados, dónde están los héroes",,"individual",2015,,
+"242","Exhibition","Le papelinos of lepapel",,"individual",2017,,
+"243","Exhibition","Las historias no terminan así, esto ni siquiera comenzó",,"individual",2015,,
+"244","Exhibition","Las ruinas del espíritu",,"individual",2016,,
+"245","Exhibition","La desnudez de la muerte",,"individual",2012,,
+"246","Exhibition","La insoportable muerte",,"colectiva",2018,,
+"247","Exhibition","La piñatota",,"individual",2017,,
+"248","Exhibition","La magdalena y otros estudios de campo",,"individual",2014,,
+"249","Exhibition","La incertidumbre del tiempo",,"colectiva",2017,,
+"250","Exhibition","Landschaft / Hudson",,"individual",2015,,
+"251","Exhibition","La pasión por lo humano",,"individual",2017,,
+"252","Exhibition","La vida es un sueño",,"individual",2018,,
+"253","Exhibition","La Sustancia Salvaje",,"colectiva",2020,,
+"255","Exhibition","La naturaleza y su estado de contingencia",,"individual",2017,,
+"256","Exhibition","Las Azucenas en los cadáveres",,"individual",2017,,
+"257","Exhibition","La razón del malentendido",,"individual",2016,,
+"258","Exhibition","La sala del tiempo, Nivada",,"colectiva",2008,,
+"259","Exhibition","La ceiba gráfica, estampas de una década",,"colectiva",2017,,
+"260","Exhibition","Las guardinas",,"individual",2014,,
+"261","Exhibition","Laboratorio de brujas",,"colectiva",2017,,
+"262","Exhibition","La materia del paisaje2019",,"individual",2019,,
+"263","Exhibition","Las Luchas perdidas 2017",,"individual",2017,,
+"264","Exhibition","Katharsis",,"individual",2016,,
+"265","Exhibition","Jugando",,"individual",2015,,
+"266","Exhibition","Jardines Exquisitos",,"colectiva",2017,,
+"267","Exhibition","Iteración",,"individual",2019,,
+"268","Exhibition","INERTE",,"individual",2014,,
+"269","Exhibition","Insumos robados",,"individual",2015,,
+"270","Exhibition","Indicios",,"individual",2013,,
+"271","Exhibition","Inenarrable",,"colectiva",2016,,
+"272","Exhibition","Infinitamente ausentes",,"individual",2020,,
+"273","Exhibition","Interacciones lineales",,"individual",2017,,
+"274","Exhibition","Inmersiones del ser",,"individual",2017,,
+"275","Exhibition","Interpresencias de identidad arquetípica",,"individual",2013,,
+"276","Exhibition","Intuiciones paralelas",,"colectiva",2019,,
+"277","Exhibition","In Memoriam",,"individual",2015,,
+"278","Exhibition","Invisible sintagma: Alegorías sobre la masculinidad",,"individual",2020,,
+"279","Exhibition","Impermancia Percepción en movimiento",,"colectiva",2018,,
+"280","Exhibition","Impronta. Algunos relatos sobre el cuerpo",,"colectiva",2017,,
+"281","Exhibition","Imaginofagia de la destrucción",,"individual",2014,,
+"282","Exhibition","Imagen que es memoria",,"individual",2016,,
+"283","Exhibition","Ilustraciones Ballet",,"individual",2014,,
+"284","Exhibition","Ilustraciones",,"individual",2018,,
+"285","Exhibition","Igniciones",,"individual",2015,,
+"286","Exhibition","Idealismo",,"individual",2014,,
+"287","Exhibition","Iconografía transparente",,"individual",2018,,
+"288","Exhibition","Iconografía Imaginaria",,"individual",2018,,
+"289","Exhibition","Iconofagia",,"individual",2014,,
+"290","Exhibition","Huiltcatzin en la Municipal",,"individual",2016,,
+"291","Exhibition","Horizontes y paisajes lejanos",,"individual",2008,,
+"292","Exhibition","Hola y adiós",,"individual",2015,,
+"293","Exhibition","Homenaje a José Guadalupe Posada",,"colectiva",2013,,
+"294","Exhibition","Historias del cuerpo consciente",,"individual",2005,,
+"295","Exhibition","Habitable Inconsciente",,"individual",2015,,
+"296","Exhibition","Hasta pa morirse hay tiempo",,"individual",2016,,
+"297","Exhibition","Gravedad y Ligereza",,"colectiva",2019,,
+"298","Exhibition","Gran Formato",,"individual",2017,,
+"299","Exhibition","Grrrr",,"individual",2018,,
+"300","Exhibition","Gráfica Sonidera",,"colectiva",2019,,
+"301","Exhibition","Gráfica de una generación manipulada",,"individual",2014,,
+"302","Exhibition","Gráfica expandida",,"colectiva",2017,,
+"303","Exhibition","Girly art Showcase",,"colectiva",2018,,
+"304","Exhibition","Girl Power 2017",,"colectiva",2017,,
+"305","Exhibition","Girl Power 2016",,"colectiva",2016,,
+"306","Exhibition","Girl Power 2015",,"colectiva",2015,,
+"307","Exhibition","Gehena",,"individual",2014,,
+"308","Exhibition","Geopoética",,"individual",2019,,
+"309","Exhibition","Geometrías Adversas",,"individual",2020,,
+"310","Exhibition","Futuro próximo, pasado remoto",,"individual",2018,,
+"311","Exhibition","Frida Snow White",,"individual",2015,,
+"312","Exhibition","Fragmentos estéticos",,"individual",2017,,
+"313","Exhibition","Fragmentos",,"colectiva",2017,,
+"314","Exhibition","Fricción, tianguis de diseño",,"colectiva",2017,,
+"315","Exhibition","Fragmentos de tiempo y materia",,"individual",2020,,
+"316","Exhibition","Fósiles del futuro",,"colectiva",2017,,
+"317","Exhibition","Fortuna",,"colectiva",2016,,
+"318","Exhibition","Foco Tonal",,"individual",2020,,
+"320","Exhibition","Fiera Estampa",,"colectiva",2014,,
+"321","Exhibition","Figurativa Contemporánea",,"colectiva",2009,,
+"322","Exhibition","Figuras urbanas",,"individual",2019,,
+"323","Exhibition","Figuraciones contemporáneas",,"colectiva",2017,,
+"324","Exhibition","Falsos límites",,"individual",2019,,
+"325","Exhibition","Fauna gráfica",,"colectiva",2016,,
+"326","Exhibition","Favor de reinterpretar",,"colectiva",2017,,
+"327","Exhibition","Exhibición Pop-Up",,"colectiva",2019,,
+"328","Exhibition","Exposición para venta",,"individual",2018,,
+"329","Exhibition","Exhibición 2016 para venta impulso",,"colectiva",2016,,
+"330","Exhibition","Exhibición 2017 para venta impulso",,"colectiva",2017,,
+"331","Exhibition","Exhibición 2018 para venta impulso",,"colectiva",2018,,
+"332","Exhibition","Exhibición 2020 para venta impulso",,"colectiva",2020,,
+"333","Exhibition","Exhibición 2019 para venta impulso",,"colectiva",2019,,
+"334","Exhibition","Expo para venta 2018 diegorose",,"colectiva",2018,,
+"335","Exhibition","Exhibición 2019 para venta diegorose",,"colectiva",2019,,
+"336","Exhibition","Exploration Picturale dos",,"individual",2015,,
+"338","Exhibition","Expo colectiva número dos",,"colectiva",2019,,
+"339","Exhibition","Exposición colectiva de dibujo",,"colectiva",2015,,
+"340","Exhibition","ExLibris",,"colectiva",2018,,
+"341","Exhibition","Exhibición 2018 para venta balneario",,"colectiva",2018,,
+"342","Exhibition","Exhibición 2019 para venta balneario",,"colectiva",2019,,
+"343","Exhibition","Expo colectiva y vendimia",,"colectiva",2018,,
+"344","Exhibition","Exposición intercambio de Stickers - Fricción BoardDripper",,"individual",2017,,
+"345","Exhibition","Expo nómada Board Dripper",,"individual",2014,,
+"346","Exhibition","Exposición Homenaje a Rosario Sánchez de Lozada",,"individual",2019,,
+"347","Exhibition","Expresiones adversas",,"colectiva",2013,,
+"348","Exhibition","Experimento de un retrato social",,"individual",2017,,
+"349","Exhibition","Exposición inaugural",,"colectiva",2018,,
+"351","Exhibition","Expo para venta 2017",,"colectiva",2017,,
+"352","Exhibition","Expo para venta 2016",,"individual",2016,,
+"353","Exhibition","Espera Avanza Esperanza",,"individual",2016,,
+"354","Exhibition","Estaciones de Virtud",,"individual",2015,,
+"355","Exhibition","Estos son los pájaros",,"individual",2012,,
+"356","Exhibition","Estertor",,"individual",2014,,
+"357","Exhibition","Esto es serio",,"individual",2018,,
+"358","Exhibition","Estudio para paisajes",,"individual",2018,,
+"359","Exhibition","Esplenda",,"individual",2012,,
+"361","Exhibition","Están las Montañas",,"individual",2019,,
+"362","Exhibition","Es tu perro tú lo bañas",,"individual",2015,,
+"363","Exhibition","Equino Real IV",,"individual",2014,,
+"365","Exhibition","En la otra vida era una licuadora",,"individual",2012,,
+"366","Exhibition","Encuentro Muestra colectiva de pintura",,"colectiva",2015,,
+"367","Exhibition","En transición",,"individual",2017,,
+"368","Exhibition","En tiempos de Trump",,"colectiva",2019,,
+"369","Exhibition","En el borde",,"individual",2014,,
+"370","Exhibition","Encuentro esténcil México",,"colectiva",2017,,
+"371","Exhibition","Entomología onírica",,"individual",2014,,
+"372","Exhibition","En ningún lugar",,"individual",2008,,
+"373","Exhibition","El arco y la luz",,"colectiva",2015,,
+"375","Exhibition","El memorial y la aurora",,"individual",2015,,
+"376","Exhibition","El placer de lo cotidiano",,"colectiva",2018,,
+"377","Exhibition","El filo de la carne",,"individual",2018,,
+"378","Exhibition","El reino de Yuppieland",,"individual",2016,,
+"379","Exhibition","El río y la montaña",,"colectiva",2019,,
+"380","Exhibition","El mundo increíble",,"individual",2013,,
+"381","Exhibition","El tiempo amargo de mi vida inútil",,"individual",2017,,
+"382","Exhibition","El perro de Oventic",,"colectiva",2014,,
+"383","Exhibition","El punto de partida",,"individual",2018,,
+"384","Exhibition","El lobo, el espejo y las banderas",,"individual",2020,,
+"385","Exhibition","El triángulo de las pinturas",,"colectiva",2018,,
+"386","Exhibition","El orden natural de las cosas",,"colectiva",2019,,
+"388","Exhibition","El pintor y la ciudad",,"colectiva",2019,,
+"389","Exhibition","El (des)orden de las cosas 2019",,"individual",2019,,
+"390","Exhibition","Edén",,"colectiva",2019,,
+"391","Exhibition","Dual",,"individual",2019,,
+"392","Exhibition","Dolores a la bandera",,"individual",2017,,
+"393","Exhibition","Dos horas 37 minutos",,"individual",2018,,
+"394","Exhibition","Dos cuerpos",,"individual",2020,,
+"395","Exhibition","Dos países una pasión",,"colectiva",2019,,
+"396","Exhibition","Diseño de lo incorrecto",,"individual",2016,,
+"397","Exhibition","Diálogos con la madre tierra",,"individual",2020,,
+"398","Exhibition","Dibujos a Leonora",,"individual",2016,,
+"399","Exhibition","Días de Tierra",,"individual",2015,,
+"400","Exhibition","Dibujos",,"individual",2016,,
+"401","Exhibition","Disordenario",,"individual",2017,,
+"402","Exhibition","Día de la mujer",,"colectiva",2020,,
+"403","Exhibition","Del olvido a la luz",,"individual",2012,,
+"404","Exhibition","De lo que fue",,"individual",2016,,
+"405","Exhibition","De cierto, desierto, de cierto",,"colectiva",2013,,
+"406","Exhibition","De la idea al Objeto",,"colectiva",2015,,
+"407","Exhibition","Desfronterizarte",,"colectiva",2017,,
+"408","Exhibition","Despora",,"individual",2015,,
+"409","Exhibition","Descarados",,"individual",2014,,
+"410","Exhibition","Desaparecidos",,"colectiva",2015,,
+"411","Exhibition","Deconstrucción",,"individual",2019,,
+"412","Exhibition","De Caos y Creación",,"colectiva",2020,,
+"413","Exhibition","Decline",,"individual",2016,,
+"414","Exhibition","Después de la calma",,"individual",2019,,
+"415","Exhibition","De la Boca a la Botella",,"individual",2014,,
+"416","Exhibition","De la construcción al vacío",,"colectiva",2016,,
+"417","Exhibition","Devastación en carne propia",,"individual",2011,,
+"418","Exhibition","De penetraciones y otras complicaciones",,"individual",2015,,
+"419","Exhibition","Desintegraciones",,"individual",2016,,
+"420","Exhibition","Dealers Venta ilustradores",,"colectiva",2018,,
+"421","Exhibition","Del hedonismo y lo lúdico",,"individual",2019,,
+"422","Exhibition","Dealers Expendio Gráfico",,"colectiva",2016,,
+"423","Exhibition","Dealers Expendio gráfico",,"colectiva",2017,,
+"424","Exhibition","Despistes, indirectas, digresiones y demás tretas para preguntar",,"individual",2017,,
+"425","Exhibition","Decosntrucciones de identidad",,"individual",2014,,
+"426","Exhibition","Delirios mexicanos 2014",,"individual",2014,,
+"427","Exhibition","Cuerpos entretejidos",,"individual",2020,,
+"428","Exhibition","Cuerpos sobre descomposición",,"individual",2015,,
+"430","Exhibition","Corium",,"individual",2010,,
+"431","Exhibition","Código Abstracto",,"individual",2019,,
+"432","Exhibition","Construir una grieta",,"individual",2017,,
+"433","Exhibition","Contratiempo",,"individual",2015,,
+"434","Exhibition","Color y matiz queretano",,"colectiva",2016,,
+"435","Exhibition","CONVIVIO",,"colectiva",2019,,
+"436","Exhibition","Colisión cósmica / sinergia",,"individual",2017,,
+"437","Exhibition","Colectiva Pictórica Festival Santiago",,"colectiva",2011,,
+"439","Exhibition","Construcciones estructurales",,"individual",2014,,
+"440","Exhibition","Colectiva duográfica",,"colectiva",2016,,
+"441","Exhibition","Con los terroristas",,"individual",2018,,
+"442","Exhibition","Color, formas y texturas",,"individual",2014,,
+"443","Exhibition","Clase de Homero",,"individual",2020,,
+"444","Exhibition","Charlie don´t surf",,"colectiva",2017,,
+"445","Exhibition","cerouno010101 01101110 01100101 01111000 011100cerocero",,"colectiva",2017,,
+"446","Exhibition","CC BIS",,"individual",2017,,
+"447","Exhibition","Cábula raza",,"colectiva",2018,,
+"448","Exhibition","Cartografía Constelativa",,"colectiva",2014,,
+"449","Exhibition","Cabañuelas del cuerpo",,"individual",2017,,
+"450","Exhibition","Cabeza y manos",,"colectiva",2016,,
+"451","Exhibition","Caducifolia",,"individual",2017,,
+"452","Exhibition","Campo Dinámico",,"individual",2015,,
+"453","Exhibition","Casas",,"individual",2013,,
+"454","Exhibition","Care 365",,"individual",2015,,
+"455","Exhibition","Burn",,"individual",2018,,
+"456","Exhibition","Board DripperV",,"individual",2014,,
+"457","Exhibition","BoConcept",,"individual",2019,,
+"459","Exhibition","Bitácora de la luz",,"individual",2020,,
+"462","Exhibition","Bethel Puerta del Cielo",,"individual",2017,,
+"463","Exhibition","Bestiario Poemas",,"colectiva",2018,,
+"464","Exhibition","Barranco",,"colectiva",2019,,
+"465","Exhibition","Batallas",,"individual",2015,,
+"466","Exhibition","Azoteas, corredores y otros lugares",,"individual",2018,,
+"467","Exhibition","Aviaria Memoria",,"colectiva",2018,,
+"468","Exhibition","Automatique",,"individual",2016,,
+"469","Exhibition","Atrocity",,"individual",2016,,
+"470","Exhibition","Atrue history",,"individual",2014,,
+"472","Exhibition","Atmósferas místicas",,"individual",2016,,
+"473","Exhibition","ASangre y fuego",,"colectiva",2012,,
+"474","Exhibition","Asu materia perdonará el fuego",,"individual",2017,,
+"475","Exhibition","Arqueología del futuro",,"individual",2018,,
+"476","Exhibition","Arte vs arte, una antología",,"individual",2018,,
+"477","Exhibition","Arché",,"individual",2018,,
+"478","Exhibition","Aquí",,"individual",2016,,
+"479","Exhibition","Aquí y ahora",,"individual",2017,,
+"480","Exhibition","Aquatania parte uno",,"individual",2017,,
+"481","Exhibition","Apertura",,"colectiva",2019,,
+"482","Exhibition","Aper en Silverio",,"individual",2017,,
+"483","Exhibition","Aproximaciones a la realidad",,"individual",2019,,
+"484","Exhibition","Aorillas de la catástrofe",,"individual",2015,,
+"485","Exhibition","Anagramas matemáticos",,"individual",2018,,
+"486","Exhibition","Anatomía del origen",,"colectiva",2015,,
+"487","Exhibition","Alquimia y universo",,"individual",2012,,
+"488","Exhibition","All in all",,"individual",2016,,
+"489","Exhibition","Al revés",,"individual",2015,,
+"490","Exhibition","Álter",,"individual",2016,,
+"491","Exhibition","Ahora",,"individual",2016,,
+"492","Exhibition","Agujeros de gusano",,"individual",2018,,
+"493","Exhibition","ADN Tierra ignota",,"colectiva",2020,,
+"494","Exhibition","Acrodes y fragancias",,"individual",2012,,
+"495","Exhibition","Abuelita llena de vida",,"individual",2018,,
+"496","Exhibition","Duovema",,"colectiva",2020,,
+"497","Exhibition","Espacio Cromático",,"individual",2021,,
+"498","Exhibition","Figuras de la mente",,"individual",2020,,
+"499","Exhibition","Melancolía",,"individual",2020,,
+"500","Exhibition","Mujer Paisaje",,"individual",2018,,
+"501","Exhibition","Munae",,"individual",2018,,
+"502","Exhibition","Nada",,"colectiva",2021,,
+"503","Exhibition","No desierto",,"individual",2018,,
+"504","Exhibition","Pequeñas reflexiones ilustradas",,"individual",2018,,
+"505","Exhibition","Surente",,"individual",2021,,
+"506","Exhibition","Synesthesia",,"colectiva",2021,,
+"508","Artist","Abel Cervantes",,,,"Hombre","México"
+"509","Artist","Abel Zavala",,,,"Hombre","México"
+"510","Artist","Abelardo Ávila",,,,"Hombre","México"
+"511","Artist","Abraham Cruz Villegas",,,,"Hombre","México"
+"512","Artist","Abraham Jiménez",,,,"Hombre","missing data"
+"513","Artist","Abraham Soriano",,,,"Hombre","México"
+"514","Artist","Abraham Torres",,,,"Hombre","México"
+"515","Artist","Abril Pegueros",,,,"Mujer","México"
+"516","Artist","Ada Neumaier",,,,"Mujer","México"
+"517","Artist","Adalberto Gómez",,,,"Hombre","México"
+"518","Artist","Adam Chamandy",,,,"Hombre","Canadá"
+"519","Artist","Adrian Van Der Meer",,,,"Hombre","missing data"
+"520","Artist","Adriana Avedillo",,,,"Mujer","México"
+"521","Artist","Adriana Lara",,,,"Mujer","México"
+"522","Artist","Adriana Mejía",,,,"Mujer","missing data"
+"523","Artist","AdrianRO",,,,"Hombre","México"
+"524","Artist","Africa Col",,,,"Mujer","missing data"
+"525","Artist","Agustín Rivera",,,,"Hombre","missing data"
+"526","Artist","Aideé de León",,,,"Mujer","México"
+"527","Artist","Alan Altamirano MK Kabrito",,,,"Hombre","México"
+"528","Artist","Alan Pfeiffer",,,,"Hombre","Estados Unidos"
+"529","Artist","Alberto Huerta",,,,"Hombre","México"
+"530","Artist","Alberto Ledesma",,,,"Hombre","México"
+"531","Artist","Alberto Medina",,,,"Hombre","México"
+"532","Artist","Alberto Reséndiz Galindo",,,,"Hombre","México"
+"533","Artist","Aldo Delgado",,,,"Hombre","México"
+"534","Artist","Alec Monopoly",,,,"Hombre","missing data"
+"535","Artist","Alegría del Prado",,,,"Mujer","México y España"
+"536","Artist","Alejahyt Montoya",,,,"Mujer","México"
+"537","Artist","Alejandra Bilbao",,,,"Mujer","México"
+"538","Artist","Alejandra Díaz",,,,"Mujer","missing data"
+"539","Artist","Alejandra Espinoza",,,,"Mujer","México"
+"540","Artist","Alejandra Mier",,,,"Mujer","México"
+"541","Artist","Alejandra Olvera",,,,"Mujer","México"
+"542","Artist","Alejandro Ballesteros",,,,"Hombre","México"
+"543","Artist","Alejandro Flores",,,,"Hombre","missing data"
+"544","Artist","Alejandro Guevara",,,,"Hombre","missing data"
+"545","Artist","Alejandro Martínez",,,,"Hombre","México"
+"546","Artist","Alejandro Medina",,,,"Mujer","México"
+"547","Artist","Alejandro Saldívar",,,,"Hombre","México"
+"548","Artist","Alejandro Santiago",,,,"Mujer","México"
+"549","Artist","Alejandro Uribe",,,,"Hombre","México"
+"550","Artist","Alejandro Vazquez",,,,"Hombre","México"
+"551","Artist","Alejandro von Waberer",,,,"Hombre","México"
+"553","Artist","AlexandreM",,,,"Hombre","México"
+"554","Artist","Alexis Escalante",,,,"Hombre","México"
+"555","Artist","Alfonso Basaldúa",,,,"Hombre","missing data"
+"556","Artist","Alfredo Herrera",,,,"Hombre","México"
+"557","Artist","Alfredo Juárez",,,,"Hombre","México"
+"558","Artist","Alfredo Revelo",,,,"Hombre","México"
+"559","Artist","Alfredo Sánchez",,,,"Hombre","México"
+"560","Artist","Aline Ambriz",,,,"Mujer","México"
+"561","Artist","Aline Herrera",,,,"Mujer","México"
+"562","Artist","Allan Sekula",,,,"Mujer","Estados Unidos"
+"563","Artist","Allan Villavicencio",,,,"Hombre","missing data"
+"564","Artist","Alma Cecilia López",,,,"Mujer","missing data"
+"565","Artist","Alma Montero",,,,"Mujer","México"
+"566","Artist","Alma Rosa Pacheco",,,,"Mujer","México"
+"567","Artist","Alonso Bravo",,,,"Hombre","México"
+"568","Artist","Alonso Zavala",,,,"Hombre","México"
+"569","Artist","Amador Montes",,,,"Hombre","México"
+"570","Artist","Amanda Mijangos",,,,"Mujer","México"
+"571","Artist","Ambar Quintanar",,,,"Mujer","missing data"
+"572","Artist","Ameyalli Gómez",,,,"Mujer","missing data"
+"573","Artist","Ana Castell",,,,"Mujer","México"
+"574","Artist","Ana Juan",,,,"Mujer","missing data"
+"575","Artist","Ana Julia Aguado",,,,"Mujer","México"
+"576","Artist","Ana Landeros",,,,"Mujer","México"
+"577","Artist","Ana Marietta",,,,"Mujer","México"
+"578","Artist","Ana Teresa Dávila",,,,"Mujer","México"
+"579","Artist","Ana Viola Hallberg",,,,"Mujer","missing data"
+"580","Artist","Andonella",,,,"Mujer","México"
+"581","Artist","Andrea Arvizu",,,,"Mujer","México"
+"582","Artist","Andrea Mondragón",,,,"Mujer","México"
+"584","Artist","Andrey Sánchez",,,,"Hombre","México"
+"585","Artist","Anette Verenice López Nevárez",,,,"Mujer","México"
+"586","Artist","Angat",,,,"Mujer","México"
+"587","Artist","Ángel González de la Tijera",,,,"Hombre","México"
+"588","Artist","Ángel Lizanilla Beltrán",,,,"Hombre","México"
+"589","Artist","Ángel Vega",,,,"Mujer","México"
+"590","Artist","Angela Bulloch",,,,"Mujer","Canadá"
+"591","Artist","Angélica Escárcegaa",,,,"Mujer","missing data"
+"592","Artist","Angélica Iracheta",,,,"Mujer","México"
+"593","Artist","Angélica Noriega",,,,"Mujer","México"
+"594","Artist","Angella Holguin",,,,"Mujer","missing data"
+"595","Artist","Aníbal Catalán",,,,"Hombre","missing data"
+"596","Artist","Anna Garski",,,,"Mujer","missing data"
+"597","Artist","Annie Heiny",,,,"Mujer","missing data"
+"598","Artist","Antonio Castañeda",,,,"Hombre","México"
+"599","Artist","Antonio Chaurand",,,,"Hombre","missing data"
+"600","Artist","Antonio Loyola",,,,"Hombre","México"
+"601","Artist","Antonio O´Conell",,,,"Hombre","México"
+"602","Artist","Antonio Sáiz",,,,"Hombre","missing data"
+"603","Artist","Anuar Atala",,,,"Hombre","missing data"
+"604","Artist","Argel Martínez Peña",,,,"Mujer","México"
+"605","Artist","Ari Ruiz Lang",,,,"Mujer","México"
+"606","Artist","Armando Fallas Varela",,,,"Hombre","missing data"
+"607","Artist","Armando Hernández",,,,"Hombre","missing data"
+"608","Artist","Armando Vega Gil",,,,"Hombre","missing data"
+"609","Artist","Armando Villavicencio",,,,"Hombre","missing data"
+"610","Artist","Arre",,,,"Mujer","missing data"
+"611","Artist","Artemio Narro",,,,"Hombre","México"
+"612","Artist","Arthur Henry Fork",,,,"Mujer","missing data"
+"613","Artist","Arturo Angulo Gallardo",,,,"Hombre","México"
+"614","Artist","Arturo Herrera",,,,"Mujer","Venezuela"
+"615","Artist","Arturo Joel Padilla Córdova",,,,"Hombre","missing data"
+"616","Artist","Arturo Ocampo",,,,"Hombre","missing data"
+"617","Artist","Atelier Van Lieshout",,,,"Mujer","missing data"
+"618","Artist","Aura Moreno",,,,"Mujer","México"
+"619","Artist","Aurora Vizcaíno Ruiz",,,,"Mujer","México"
+"620","Artist","AVA Animation & Visual Arts",,,,"Mujer","missing data"
+"621","Artist","Axel Hidalgo",,,,"Hombre","México"
+"622","Artist","Azucena Germán",,,,"Mujer","México"
+"623","Artist","Azucena Ramírez",,,,"Mujer","México"
+"624","Artist","Azul Gabriela Salas Ríos",,,,"Mujer","México"
+"625","Artist","Base Lunar",,,,"Mujer","México"
+"626","Artist","Bectta",,,,"Mujer","México"
+"627","Artist","Benito Martínez Creel",,,,"Hombre","missing data"
+"628","Artist","Benjamin Orozco",,,,"Hombre","México"
+"629","Artist","Benjamín Ortega",,,,"Hombre","México"
+"630","Artist","Benuz",,,,"Hombre","México"
+"631","Artist","Bernardo Barquet",,,,"Hombre","México"
+"632","Artist","Bitasi",,,,"Hombre","México"
+"633","Artist","BlastO",,,,"Mujer","missing data"
+"634","Artist","Blue",,,,"Hombre","México"
+"635","Artist","Bobe",,,,"Hombre","México"
+"636","Artist","Bradley Narduzzi",,,,"Hombre","Estados Unidos"
+"637","Artist","Braulio Segura",,,,"Hombre","México"
+"639","Artist","Bruno Bresani",,,,"Hombre","missing data"
+"640","Artist","Brvja XIII",,,,"Hombre","México"
+"641","Artist","Cabeza de plátano",,,,"Hombre","México"
+"642","Artist","Caín Torres",,,,"Hombre","México"
+"643","Artist","Calexico Ramírez",,,,"Hombre","México"
+"644","Artist","Calimocho Styles",,,,"Hombre","missing data"
+"645","Artist","Calladitos",,,,"Mujer","México"
+"646","Artist","Camilo Dynamite",,,,"Hombre","México"
+"647","Artist","Candida Höfer",,,,"Mujer","Alemania"
+"648","Artist","Carla Zaldivar",,,,"Mujer","México"
+"649","Artist","Carlos Amorales",,,,"Hombre","México"
+"650","Artist","Carlos Bazán",,,,"Hombre","México"
+"651","Artist","Carlos Ciriza",,,,"Hombre","México"
+"652","Artist","Carlos Deloarte",,,,"Hombre","México"
+"653","Artist","Carlos Génova",,,,"Hombre","México"
+"654","Artist","Carlos Herrera",,,,"Hombre","México"
+"655","Artist","Carlos Iván Hernández",,,,"Hombre","México"
+"656","Artist","Carlos Oviedo",,,,"Hombre","México"
+"657","Artist","Carlos Soto",,,,"Hombre","México"
+"658","Artist","Carlos Wilk",,,,"Hombre","missing data"
+"659","Artist","CarlosM",,,,"Hombre","México"
+"660","Artist","Carmen Ávila",,,,"Mujer","México"
+"661","Artist","Carmen Chami",,,,"Mujer","missing data"
+"662","Artist","Carmen Hdz",,,,"Mujer","México"
+"663","Artist","Carolina Bolívar",,,,"Mujer","México"
+"664","Artist","Carolina Espinosa",,,,"Mujer","México"
+"665","Artist","Carolina Parra",,,,"Mujer","México"
+"666","Artist","Carsten Höller",,,,"Hombre","Bélgica"
+"667","Artist","Celeste Lomeli",,,,"Mujer","México"
+"668","Artist","Ceryth Wyn Evans",,,,"Hombre","missing data"
+"669","Artist","César Burgos",,,,"Hombre","missing data"
+"670","Artist","César Holm",,,,"Hombre","México"
+"671","Artist","Cesar Martínez",,,,"Hombre","México"
+"672","Artist","Chahuiztle",,,,"Hombre","México"
+"673","Artist","Chirrete Golden",,,,"Hombre","Colombia"
+"674","Artist","Christian Espejel",,,,"Hombre","México"
+"675","Artist","Christian Jankowski",,,,"Hombre","Alemania"
+"676","Artist","Christodoulos Panayiotou",,,,"Hombre","Chipre"
+"677","Artist","Christopher Knowles",,,,"Hombre","Estados Unidos"
+"678","Artist","Christopher Williams",,,,"Hombre","Estados Unidos"
+"679","Artist","Chucho Mendoza",,,,"Hombre","México"
+"680","Artist","Chucho Ocampo",,,,"Hombre","México"
+"681","Artist","Chucho Reyes",,,,"Hombre","México"
+"682","Artist","Cidpintor",,,,"Hombre","México"
+"683","Artist","Ciler",,,,"Hombre","México"
+"684","Artist","Cinthya de laO",,,,"Mujer","México"
+"685","Artist","Ciria Cossain",,,,"Mujer","missing data"
+"686","Artist","Citlali Rivera Gómez",,,,"Mujer","México"
+"687","Artist","Claire Fontaine",,,,"Mujer","missing data"
+"688","Artist","Clarisa Castañeda",,,,"Mujer","missing data"
+"689","Artist","Claudia Trejo",,,,"Mujer","México"
+"690","Artist","Claudia Zubia",,,,"Mujer","México"
+"691","Artist","Clementina Ferrer",,,,"Mujer","México"
+"692","Artist","Cristóbal García",,,,"Hombre","missing data"
+"693","Artist","Cyre González",,,,"Mujer","México"
+"694","Artist","Cyrielle Tremblay",,,,"Mujer","Canadá"
+"695","Artist","Damián Ortega",,,,"Hombre","missing data"
+"696","Artist","Dan Graham",,,,"Hombre","Estados Unidos"
+"697","Artist","Dan Montellano",,,,"Hombre","missing data"
+"698","Artist","DanhVo",,,,"Hombre","missing data"
+"699","Artist","Daniel Buren",,,,"Hombre","missing data"
+"700","Artist","Daniel Hernández",,,,"Hombre","México"
+"701","Artist","Daniel Morales",,,,"Hombre","México"
+"702","Artist","Daniel Seis",,,,"Hombre","México"
+"703","Artist","Daniela de la Torre",,,,"Mujer","México"
+"704","Artist","Daniela Edburg",,,,"Mujer","missing data"
+"705","Artist","Daniela Franco",,,,"Mujer","México"
+"706","Artist","Daniela Ramírez",,,,"Mujer","México"
+"707","Artist","Daniela Rossell",,,,"Mujer","México"
+"708","Artist","Dano Django",,,,"Hombre","Suecia"
+"709","Artist","Darren Almond",,,,"Hombre","Reino Unido"
+"710","Artist","David Barba",,,,"Hombre","México"
+"711","Artist","David Mach",,,,"Hombre","Escocia"
+"712","Artist","David Manzanares",,,,"Hombre","México"
+"713","Artist","David Meraz",,,,"Hombre","México"
+"714","Artist","David Shrigley",,,,"Hombre","Reino Unido"
+"716","Artist","Demencia",,,,"Mujer","México"
+"717","Artist","Demián Flores",,,,"Hombre","México"
+"718","Artist","Demsky",,,,"Hombre","España"
+"719","Artist","Denisse Sinclair",,,,"Mujer","missing data"
+"720","Artist","Dexter Sinister",,,,"Hombre","Reino Unido"
+"722","Artist","Diana Galvez",,,,"Mujer","México"
+"723","Artist","Diana Robles",,,,"Mujer","México"
+"724","Artist","Diana Vega",,,,"Mujer","missing data"
+"725","Artist","Diego Afro",,,,"Hombre","México"
+"726","Artist","Diego Alonso Carbajal",,,,"Hombre","México"
+"728","Artist","Diego Liedo",,,,"Hombre","missing data"
+"729","Artist","Diego Martínez",,,,"Hombre","México"
+"730","Artist","Diego Martínez Peña",,,,"Hombre","México"
+"731","Artist","Diego Narvaez",,,,"Hombre","missing data"
+"732","Artist","Dionel Delgado",,,,"Hombre","missing data"
+"733","Artist","Dominic Simmons",,,,"Hombre","Reino Unido"
+"734","Artist","Don Rimx",,,,"Hombre","missing data"
+"735","Artist","Dora Liz Sarmiento",,,,"Mujer","México"
+"736","Artist","DosAlas",,,,"Hombre","México"
+"737","Artist","Dulce Ledesma",,,,"Mujer","México"
+"738","Artist","Edgar Bacalao",,,,"Hombre","México"
+"739","Artist","Edgar Rojas",,,,"Hombre","México"
+"740","Artist","Edgar Uribe",,,,"Hombre","México"
+"741","Artist","Edgar Vázquez",,,,"Hombre","México"
+"742","Artist","Edith Chavez",,,,"Mujer","México"
+"743","Artist","Edqin Sánchez",,,,"Hombre","missing data"
+"744","Artist","Eduardo Abaroa",,,,"Hombre","México"
+"745","Artist","Eduardo Efrén Solva",,,,"Hombre","México"
+"746","Artist","Eduardo Merino",,,,"Hombre","México"
+"747","Artist","Eduardo Sánchez",,,,"Hombre","México"
+"748","Artist","Eduardo Sarabia",,,,"Hombre","Estados Unidos"
+"749","Artist","Eduardo Terrazas",,,,"Hombre","México"
+"750","Artist","Edward Swift",,,,"Hombre","missing data"
+"751","Artist","Efraín Castro",,,,"Hombre","México"
+"752","Artist","Elena Back",,,,"Mujer","missing data"
+"753","Artist","Elena Saborio",,,,"Mujer","México"
+"754","Artist","Elisa Soto",,,,"Mujer","missing data"
+"755","Artist","Elmgreen & Dragset",,,,"Hombre","Dinamarca"
+"756","Artist","Emiliano Guerrero",,,,"Hombre","México"
+"757","Artist","Emiliano Martínez",,,,"Hombre","México"
+"758","Artist","Emilio Lameiras Zavala",,,,"Hombre","México"
+"759","Artist","Emilio Longhi",,,,"Hombre","México"
+"760","Artist","Emilio Rama",,,,"Hombre","México"
+"761","Artist","Emmanuel Röhss",,,,"Hombre","missing data"
+"762","Artist","Enrique Echeverría",,,,"Hombre","México"
+"763","Artist","Enrique Guillén",,,,"Hombre","México"
+"764","Artist","Enrique Hernández",,,,"Hombre","México"
+"765","Artist","Enrique Jezik",,,,"Hombre","Argentina"
+"766","Artist","Enrique Ortiz",,,,"Hombre","México"
+"767","Artist","Eric Laines",,,,"Hombre","México"
+"768","Artist","Eric Pérez",,,,"Hombre","missing data"
+"769","Artist","Erica Deborn",,,,"Mujer","missing data"
+"770","Artist","Erica Harrsch",,,,"Mujer","México"
+"771","Artist","Erica Martínez",,,,"Mujer","missing data"
+"772","Artist","Erick Huiltcatzin",,,,"Hombre","México"
+"773","Artist","Esmeralda Neresis",,,,"Mujer","México"
+"774","Artist","Esmeralda Torres",,,,"Mujer","México"
+"775","Artist","Esteban Nava",,,,"Hombre","México"
+"776","Artist","Ester Echeverría",,,,"Mujer","México"
+"777","Artist","Eva Trujillo",,,,"Mujer","México"
+"778","Artist","Eva Zettervall",,,,"Mujer","missing data"
+"779","Artist","Evangelina Ley Esquer",,,,"Mujer","México"
+"780","Artist","Everank Argel",,,,"Hombre","missing data"
+"781","Artist","Evoca",,,,"Hombre","Estados Unidos"
+"782","Artist","Ezequiel Frías",,,,"Hombre","México"
+"783","Artist","Fabián Ugalde",,,,"Hombre","México"
+"784","Artist","Fabiola Falcó de la Mora",,,,"Mujer","México"
+"785","Artist","Fabiola Glam",,,,"Mujer","México"
+"786","Artist","Fanel Reyes",,,,"Mujer","missing data"
+"787","Artist","Federico de la Vega",,,,"Hombre","México"
+"788","Artist","Federico Franco",,,,"Hombre","missing data"
+"789","Artist","Federico Jordan",,,,"Hombre","México"
+"790","Artist","Felipe Oviedo",,,,"Hombre","México"
+"791","Artist","Félix Hernández",,,,"Hombre","México"
+"792","Artist","Félix Rojas",,,,"Hombre","México"
+"793","Artist","Fernanda Arias",,,,"Mujer","México"
+"794","Artist","Fernando Andreacci",,,,"Hombre","México"
+"795","Artist","Fernando Cruz",,,,"Hombre","México"
+"796","Artist","Fernando Garrido",,,,"Hombre","México"
+"797","Artist","Fernando Guevara",,,,"Hombre","México"
+"798","Artist","Fernando Jiménez Luevano",,,,"Hombre","México"
+"799","Artist","Fernando Leal Audirac",,,,"Hombre","México"
+"800","Artist","Fernando Mantilla",,,,"Hombre","México"
+"801","Artist","Fernando Sarvide",,,,"Hombre","México"
+"802","Artist","Fernando Tamés",,,,"Hombre","missing data"
+"803","Artist","Fernando Ugalde",,,,"Hombre","México"
+"804","Artist","Fil Calixto",,,,"Hombre","missing data"
+"805","Artist","Flor Minor",,,,"Mujer","México"
+"806","Artist","Flor Pandal",,,,"Mujer","missing data"
+"807","Artist","Floria González",,,,"Mujer","México"
+"808","Artist","Francis Alÿs",,,,"Hombre","Bélgica"
+"809","Artist","Francisco Castro Leñero",,,,"Hombre","México"
+"810","Artist","Francisco Esnayra",,,,"Hombre","México"
+"811","Artist","Francisco González",,,,"Hombre","México"
+"812","Artist","Francisco Javier Santiago Regalado",,,,"Hombre","México"
+"813","Artist","Francisco Miranda",,,,"Hombre","missing data"
+"814","Artist","Francisco Morales",,,,"Hombre","México"
+"815","Artist","Francisco Toledo",,,,"Hombre","México"
+"816","Artist","Francisco Ugarte",,,,"Hombre","México"
+"817","Artist","Francys Alÿs",,,,"Mujer","missing data"
+"818","Artist","Frank Hursch",,,,"Hombre","México"
+"819","Artist","Fresvinda Villa",,,,"Mujer","México"
+"820","Artist","Fruta galáctica",,,,"Mujer","México"
+"821","Artist","Fusca",,,,"Mujer","México"
+"822","Artist","Gabriel Astaroth",,,,"Hombre","México"
+"823","Artist","Gabriel Kuri",,,,"Hombre","missing data"
+"824","Artist","Gabriel Orozco",,,,"Hombre","México"
+"825","Artist","Gabriel Rivera",,,,"Hombre","México"
+"826","Artist","Gabriela Cortés",,,,"Mujer","México"
+"827","Artist","Gabriela Gutiérrez",,,,"Mujer","México"
+"828","Artist","Gabriela Martínez",,,,"Mujer","México"
+"829","Artist","Gabriela Muñoz",,,,"Mujer","México"
+"830","Artist","Gabriela Sodi Miranda",,,,"Mujer","México"
+"831","Artist","Gastón Amadeus Lafourcade",,,,"Hombre","México"
+"832","Artist","Gerardo Esquivel",,,,"Hombre","México"
+"833","Artist","Gerardo Monsiváis",,,,"Hombre","México"
+"834","Artist","Gerardo Muñoz",,,,"Hombre","missing data"
+"835","Artist","Gerardo Ruiz",,,,"Hombre","missing data"
+"836","Artist","Gerardo Soria",,,,"Hombre","México"
+"837","Artist","Gerardo Suzán",,,,"Hombre","México"
+"838","Artist","German Valles",,,,"Hombre","missing data"
+"839","Artist","Gervasio Ferreira",,,,"Hombre","México"
+"840","Artist","Gilberto Aceves Navarro",,,,"Hombre","México"
+"841","Artist","Gilberto Bravo",,,,"Hombre","México"
+"842","Artist","Gilberto Esparza",,,,"Mujer","missing data"
+"843","Artist","Gilberto Méndes Salinas",,,,"Hombre","missing data"
+"844","Artist","Gilda Castillo",,,,"Mujer","México"
+"845","Artist","Giovani Aguilar",,,,"Hombre","México"
+"846","Artist","Gleo",,,,"Mujer","Colombia"
+"847","Artist","Goal Maya",,,,"Hombre","México"
+"848","Artist","Gonzalo García",,,,"Hombre","México"
+"849","Artist","Gonzalo Lebrija",,,,"Hombre","missing data"
+"850","Artist","Goretti Padilla",,,,"Mujer","México"
+"851","Artist","Graciela Iturbide",,,,"Mujer","México"
+"853","Artist","Guadalupe Carrillo Villegas",,,,"Mujer","México"
+"854","Artist","Guadalupe Pacheco Castro",,,,"Mujer","México"
+"855","Artist","Guadalupe Vélez",,,,"Mujer","México"
+"856","Artist","Guadalupe Zamudio",,,,"Mujer","México"
+"857","Artist","Güero güero",,,,"Hombre","México"
+"858","Artist","Guillermina García",,,,"Mujer","México"
+"859","Artist","Guillermina Romero",,,,"Mujer","México"
+"860","Artist","Guillermo Álvarez Charvel",,,,"Hombre","México"
+"861","Artist","Guillermo Guerrero",,,,"Hombre","México"
+"862","Artist","Guillermo Landa Pacheco",,,,"Hombre","México"
+"863","Artist","Guillermo Ramiz Rangel",,,,"Hombre","missing data"
+"864","Artist","Gustavo Villegas",,,,"Hombre","México"
+"865","Artist","Haegue Yang",,,,"Hombre","Corea del Sur"
+"866","Artist","Hartwig Lugo Rohde",,,,"Hombre","missing data"
+"867","Artist","Hazel",,,,"Hombre","México"
+"868","Artist","Héctor de Anda",,,,"Hombre","missing data"
+"869","Artist","Hector Javier Ramírez",,,,"Hombre","missing data"
+"870","Artist","Héctor Zamora",,,,"Hombre","missing data"
+"871","Artist","Heczar Gómez",,,,"Hombre","México"
+"872","Artist","Hernán Jaime Valencia Sandoval",,,,"Hombre","México"
+"873","Artist","Hersalea Cantoral",,,,"Mujer","missing data"
+"874","Artist","Hilda Ofelia Serrano Juárez",,,,"Mujer","México"
+"875","Artist","Hilda Palafox",,,,"Mujer","México"
+"876","Artist","Hilo Rojo",,,,"Hombre","missing data"
+"877","Artist","Honorio Robledo",,,,"Hombre","México"
+"878","Artist","Horacio Warpola",,,,"Hombre","México"
+"879","Artist","Hortensia Aguilera",,,,"Mujer","México"
+"880","Artist","Hugo Crosthwaite",,,,"Hombre","missing data"
+"881","Artist","Hugo Jácome",,,,"Hombre","missing data"
+"882","Artist","Hugo Vázquez Tello",,,,"Hombre","México"
+"883","Artist","Humberto Valdez",,,,"Hombre","México"
+"884","Artist","Ignacio Chávez",,,,"Hombre","México"
+"885","Artist","Ignacio Jerónimo García",,,,"Hombre","México"
+"886","Artist","Ignacio Salinas",,,,"Hombre","México"
+"887","Artist","Irene Gutiérrez",,,,"Mujer","México"
+"888","Artist","Irma Medrano",,,,"Mujer","México"
+"889","Artist","Irma Palacios",,,,"Mujer","México"
+"890","Artist","Irving Herrera",,,,"Hombre","México"
+"891","Artist","Isabel Vera",,,,"Mujer","México"
+"892","Artist","Israel Herrerías",,,,"Hombre","México"
+"893","Artist","Israel Salinas",,,,"Hombre","México"
+"894","Artist","Iter Intergalactic",,,,"Mujer","México"
+"895","Artist","Itzamna Reyes",,,,"Mujer","México"
+"896","Artist","Ivan Caravarin",,,,"Hombre","México"
+"897","Artist","Iván Medrano",,,,"Hombre","México"
+"898","Artist","Iván Puig",,,,"Hombre","México"
+"899","Artist","Jacobo Vega",,,,"Hombre","México"
+"900","Artist","Jacobo Zanella",,,,"Hombre","México"
+"901","Artist","Jacqueline Lozano",,,,"Mujer","México"
+"902","Artist","Jacqueline Sánchez",,,,"Mujer","México"
+"903","Artist","Janite Silvestre",,,,"Mujer","México"
+"904","Artist","Jaqueline Lozano",,,,"Mujer","missing data"
+"905","Artist","Jason de Haan",,,,"Hombre","Canadá"
+"906","Artist","Javier Aceves",,,,"Hombre","missing data"
+"907","Artist","Javier Delgado",,,,"Hombre","México"
+"908","Artist","Javier Marín",,,,"Hombre","missing data"
+"909","Artist","Javier Pelaez",,,,"Hombre","missing data"
+"910","Artist","Javier Sánchez",,,,"Hombre","México"
+"911","Artist","Jazzamoart",,,,"Mujer","México"
+"912","Artist","Jeannette Betancourt",,,,"Mujer","Estados Unidos"
+"913","Artist","Jeantz Jeantz",,,,"Hombre","México"
+"914","Artist","Jeff Gibbons",,,,"Hombre","missing data"
+"915","Artist","Jeff Koons",,,,"Hombre","missing data"
+"916","Artist","Jens Haaning",,,,"Hombre","missing data"
+"917","Artist","Jesica Ibargüengoitia",,,,"Mujer","México"
+"918","Artist","Jesse Morgan Barnett",,,,"Hombre","missing data"
+"919","Artist","Jessica Carbajal",,,,"Mujer","missing data"
+"920","Artist","Jesús Águila Herrera",,,,"Hombre","México"
+"921","Artist","Jesús Benítez",,,,"Hombre","México"
+"922","Artist","Jesús Jiménez",,,,"Hombre","missing data"
+"923","Artist","Jhon McCracken",,,,"Hombre","Estados Unidos"
+"924","Artist","Jim Shaw",,,,"Hombre","Estados Unidos"
+"925","Artist","Jimena Ramos",,,,"Mujer","missing data"
+"926","Artist","Joaquín Ferreira",,,,"Hombre","México"
+"927","Artist","Joaquín Flores",,,,"Hombre","México"
+"928","Artist","Joe Black",,,,"Hombre","missing data"
+"929","Artist","Joel Estrada",,,,"Hombre","México"
+"930","Artist","Joel Merino",,,,"Hombre","México"
+"931","Artist","Joel Santamaría",,,,"Hombre","México"
+"932","Artist","Jonas Bentzer",,,,"Hombre","missing data"
+"933","Artist","Jonás Lerin Ridone",,,,"Hombre","missing data"
+"934","Artist","Jonatán Olvera",,,,"Hombre","México"
+"935","Artist","Jonathan Casado",,,,"Hombre","missing data"
+"936","Artist","Jonathan Horowitz",,,,"Hombre","Estados Unidos"
+"937","Artist","Jonky",,,,"Hombre","México"
+"938","Artist","Jordi Boldó",,,,"Hombre","México"
+"939","Artist","Jorge Macchi",,,,"Hombre","Argentina"
+"940","Artist","Jorge Martínez Marin",,,,"Hombre","México"
+"941","Artist","Jorge Oseguera",,,,"Hombre","México"
+"942","Artist","Jorge Rodríguez",,,,"Hombre","México"
+"943","Artist","Jorge Usán",,,,"Hombre","missing data"
+"944","Artist","Jorge Villanueva",,,,"Hombre","México"
+"945","Artist","Josafat Miranda",,,,"Hombre","México"
+"946","Artist","José Antonio Farreraa",,,,"Hombre","missing data"
+"947","Artist","José Castiella",,,,"Hombre","missing data"
+"948","Artist","José Castro Leñero",,,,"Hombre","México"
+"949","Artist","José Daniel Manzano Águila",,,,"Hombre","México"
+"950","Artist","José Dávilaa",,,,"Hombre","missing data"
+"951","Artist","José Garibay",,,,"Hombre","México"
+"952","Artist","Jose Luis Cuevas",,,,"Hombre","México"
+"953","Artist","José Luis Ramírez",,,,"Hombre","missing data"
+"954","Artist","José Luis Silva",,,,"Hombre","México"
+"955","Artist","José Luis Vázquez",,,,"Hombre","México"
+"956","Artist","José Maniel Navarro Dueñas MEME",,,,"Hombre","México"
+"957","Artist","José Manuel Herández",,,,"Hombre","México"
+"958","Artist","José Montes de Oca",,,,"Hombre","México"
+"959","Artist","José Pedraza",,,,"Hombre","México"
+"960","Artist","José Silverio Herrera",,,,"Hombre","México"
+"961","Artist","Josh Licea",,,,"Hombre","missing data"
+"962","Artist","Joy Venegas",,,,"Mujer","México"
+"963","Artist","Juan Alatriste",,,,"Hombre","México"
+"964","Artist","Juan Carlos Loba",,,,"Hombre","México"
+"965","Artist","Juan Carlos Morales",,,,"Hombre","México"
+"966","Artist","Juan Córdova",,,,"Hombre","missing data"
+"967","Artist","Juan Francisco Hernández Solorio",,,,"Hombre","México"
+"968","Artist","Juan Gedovius",,,,"Hombre","missing data"
+"969","Artist","Juan Guzmán",,,,"Hombre","México"
+"970","Artist","Juan Muñoz",,,,"Mujer","México"
+"971","Artist","Juan Pablo Cueva",,,,"Hombre","México"
+"972","Artist","Juan Velasco",,,,"Hombre","México"
+"973","Artist","Juana Gómez",,,,"Mujer","missing data"
+"974","Artist","Julia Martínez",,,,"Mujer","México"
+"975","Artist","Julián Guzmán La Remolacha",,,,"Hombre","México"
+"976","Artist","Juliana Ferrari",,,,"Mujer","México"
+"977","Artist","Julio Castillo",,,,"Hombre","México"
+"978","Artist","Julio Cesar Cervantes",,,,"Hombre","México"
+"979","Artist","Karas Urbanas",,,,"Hombre","México"
+"980","Artist","Karen Valentim",,,,"Mujer","missing data"
+"981","Artist","Karla Kaplun",,,,"Mujer","missing data"
+"982","Artist","Kat Galindo",,,,"Mujer","México"
+"983","Artist","Kenia Cano",,,,"Mujer","México"
+"984","Artist","Kevin Fonseca",,,,"Hombre","missing data"
+"985","Artist","Kiki Smith",,,,"Mujer","Alemania"
+"986","Artist","Kikyz1313",,,,"Mujer","México"
+"987","Artist","KillJoy",,,,"Mujer","Estados Unidos"
+"988","Artist","Knut Pani",,,,"Hombre","México"
+"989","Artist","Laila Hotait",,,,"Mujer","missing data"
+"990","Artist","LandraTV",,,,"Mujer","México"
+"991","Artist","LaRegia",,,,"Mujer","México"
+"992","Artist","Laura Barajas",,,,"Mujer","México"
+"993","Artist","Laura Sánchez",,,,"Mujer","México"
+"994","Artist","Laura Vega",,,,"Mujer","México"
+"995","Artist","Lauren Woods",,,,"Mujer","missing data"
+"996","Artist","Ledania",,,,"Mujer","missing data"
+"997","Artist","LeFico",,,,"Hombre","México"
+"998","Artist","Leonardo Díaz",,,,"Hombre","missing data"
+"999","Artist","Leonardo Enter Gómez",,,,"Hombre","México"
+"1000","Artist","Leonardo Nierman",,,,"Hombre","missing data"
+"1001","Artist","Leonardo Pioner",,,,"Hombre","missing data"
+"1002","Artist","Leopoldo Elías Smith McDonald",,,,"Hombre","México"
+"1003","Artist","Leopoldo Ramos",,,,"Hombre","México"
+"1004","Artist","Leslie Buenrostro",,,,"Mujer","México"
+"1005","Artist","Leslie San Vicente",,,,"Mujer","missing data"
+"1006","Artist","Leticia Arellano",,,,"Mujer","missing data"
+"1007","Artist","Leticia Barrera",,,,"Mujer","México"
+"1008","Artist","Leyre Arin",,,,"Hombre","missing data"
+"1009","Artist","Liam O´Connor",,,,"Hombre","missing data"
+"1010","Artist","Liliana Gálvez Heras",,,,"Mujer","México"
+"1011","Artist","Lilustieza",,,,"Hombre","México"
+"1012","Artist","Lirio Garduño",,,,"Hombre","México"
+"1013","Artist","Lobo de Orión",,,,"Hombre","México"
+"1014","Artist","Lobo Kelevra",,,,"Hombre","México"
+"1015","Artist","Lorena Teruel",,,,"Mujer","México"
+"1016","Artist","Lorena Wolffer",,,,"Mujer","México"
+"1017","Artist","Lothar Müller",,,,"Mujer","missing data"
+"1018","Artist","Louis Dodier",,,,"Mujer","missing data"
+"1019","Artist","Lucía Landaverde",,,,"Mujer","México"
+"1020","Artist","Lucía Torres",,,,"Mujer","México"
+"1021","Artist","Luis Alberto Camacho",,,,"Hombre","México"
+"1022","Artist","Luis Argudín",,,,"Hombre","México"
+"1023","Artist","Luis David Moran",,,,"Hombre","México"
+"1024","Artist","Luis Fernando Camino",,,,"Hombre","México"
+"1025","Artist","Luis Filcer",,,,"Hombre","México"
+"1026","Artist","Luis Safa",,,,"Hombre","México"
+"1027","Artist","Luis Sánchez",,,,"Hombre","México"
+"1028","Artist","Luis Selem",,,,"Hombre","México"
+"1029","Artist","Luna Moreno",,,,"Mujer","México"
+"1030","Artist","Luz del Carmen Magaña",,,,"Mujer","México"
+"1031","Artist","Luz María Cano",,,,"Mujer","México"
+"1032","Artist","Luz Venegas",,,,"Mujer","missing data"
+"1033","Artist","Maca Pelayo",,,,"Mujer","México"
+"1034","Artist","Magda Love",,,,"Mujer","Argentina"
+"1035","Artist","Malu Olguín",,,,"Mujer","México"
+"1036","Artist","Manuel Barrientos",,,,"Hombre","México"
+"1037","Artist","Manuel Felguérez",,,,"Hombre","México"
+"1038","Artist","Manuel García",,,,"Hombre","México"
+"1039","Artist","Manuel Marín",,,,"Hombre","México"
+"1040","Artist","Manuel Miguel",,,,"Hombre","México"
+"1041","Artist","Marcel Dzama",,,,"Mujer","Canadá"
+"1042","Artist","Marcela Armas",,,,"Mujer","missing data"
+"1043","Artist","Marcela Herbert",,,,"Mujer","México"
+"1044","Artist","Marcela Hernández",,,,"Mujer","México"
+"1045","Artist","Marcela Lobo",,,,"Mujer","México"
+"1046","Artist","Marco Rubio",,,,"Hombre","México"
+"1047","Artist","Mareano Ruíz",,,,"Hombre","missing data"
+"1048","Artist","Márgara Garza",,,,"Mujer","missing data"
+"1049","Artist","María Antonia Paz",,,,"Mujer","missing data"
+"1050","Artist","María Calzada",,,,"Hombre","México"
+"1051","Artist","María Cristina Pérez Valenzuela",,,,"Mujer","México"
+"1052","Artist","María Delfina",,,,"Mujer","missing data"
+"1053","Artist","María Elena Arce",,,,"Mujer","México"
+"1054","Artist","María Elena Tenorio",,,,"Mujer","México"
+"1055","Artist","María Escobar",,,,"Mujer","México"
+"1056","Artist","María Fernanda Razo",,,,"Mujer","México"
+"1057","Artist","María Figueroa",,,,"Mujer","missing data"
+"1058","Artist","María Guadalupe Gómez",,,,"Mujer","México"
+"1059","Artist","Mariana Alarcón",,,,"Mujer","México"
+"1060","Artist","Mariana Alcántara",,,,"Mujer","México"
+"1061","Artist","Mariana González Jáuregui",,,,"Mujer","México"
+"1062","Artist","Maricela Aranda",,,,"Mujer","México"
+"1063","Artist","Mariela López",,,,"Mujer","México"
+"1064","Artist","Marilá Dardot",,,,"Mujer","missing data"
+"1065","Artist","Marina Capdevila",,,,"Mujer","México"
+"1066","Artist","Mario García",,,,"Mujer","México"
+"1067","Artist","Mario Maplé",,,,"Hombre","México"
+"1068","Artist","Mario Roundtree",,,,"Hombre","missing data"
+"1069","Artist","Mario Torres",,,,"Hombre","México"
+"1070","Artist","Marisol Guerrero",,,,"Mujer","México"
+"1071","Artist","Marisol Ocadiz",,,,"Mujer","missing data"
+"1072","Artist","Marja Godoy",,,,"Mujer","México"
+"1073","Artist","Martha Avilés",,,,"Mujer","missing data"
+"1074","Artist","Martha Pacheco",,,,"Mujer","missing data"
+"1075","Artist","Martha Patricia Ángeles Juárez",,,,"Mujer","México"
+"1076","Artist","Martha Patricia Ángeles Martínez",,,,"Mujer","México"
+"1077","Artist","Martín Ferreyra",,,,"Hombre","Argentina"
+"1078","Artist","Martín Luna",,,,"Hombre","México"
+"1079","Artist","Martín Soto Climent",,,,"Hombre","missing data"
+"1080","Artist","MateoMAtis",,,,"Hombre","México"
+"1081","Artist","Mathieu Martin",,,,"Hombre","Francia"
+"1082","Artist","Matrino",,,,"Hombre","México"
+"1083","Artist","Maunel Barrientos",,,,"Hombre","México"
+"1084","Artist","Mauricio Cerdá Viaud",,,,"Hombre","México"
+"1085","Artist","Mecamutanterio",,,,"Hombre","México"
+"1086","Artist","Medina Kolchik",,,,"Mujer","missing data"
+"1087","Artist","Melanie Smith",,,,"Mujer","Reino Unido"
+"1088","Artist","Melina Moisidelis",,,,"Mujer","México"
+"1089","Artist","Meyer Vaisman",,,,"Hombre","Venezuela"
+"1090","Artist","Michael Licerio",,,,"Hombre","México"
+"1091","Artist","Michael Mazurek",,,,"Hombre","missing data"
+"1092","Artist","Michel Blancsubé",,,,"Hombre","missing data"
+"1093","Artist","Michelle D´Argent",,,,"Mujer","México"
+"1094","Artist","Miguel Angel Garrido",,,,"Hombre","missing data"
+"1095","Artist","Miguel Ángel Salazar",,,,"Hombre","México"
+"1096","Artist","Miguel Calderón",,,,"Hombre","missing data"
+"1097","Artist","Miguel Díaz",,,,"Hombre","México"
+"1098","Artist","Miguel Loyola",,,,"Hombre","México"
+"1099","Artist","Miguel Valiñas",,,,"Hombre","España"
+"1100","Artist","Mike Kelley",,,,"Hombre","Estados Unidos"
+"1101","Artist","Milton Navarro",,,,"Hombre","México"
+"1102","Artist","Minerva Cuevas",,,,"Mujer","México"
+"1103","Artist","Minerva Rivas",,,,"Mujer","México"
+"1104","Artist","Mireyle Cabrera Santos",,,,"Mujer","México"
+"1105","Artist","Miriam Salado",,,,"Hombre","México"
+"1106","Artist","Miriam Torralba",,,,"Mujer","México"
+"1107","Artist","Mizael Contreras Ávila",,,,"Hombre","México"
+"1108","Artist","Moisés Cervantes",,,,"Hombre","México"
+"1109","Artist","Moisés García Nava",,,,"Hombre","México"
+"1110","Artist","Mon Vallejo",,,,"Mujer","México"
+"1111","Artist","Mónica Garrido",,,,"Mujer","México"
+"1112","Artist","Mónica González",,,,"Mujer","missing data"
+"1113","Artist","Mónica López",,,,"Mujer","México"
+"1114","Artist","Mónica Loya",,,,"Mujer","México"
+"1115","Artist","Mónica Loyola",,,,"Mujer","missing data"
+"1116","Artist","Mosaico Genético",,,,"Hombre","México"
+"1117","Artist","MrBrainwash",,,,"Hombre","Estados Unidos"
+"1118","Artist","Munaf",,,,"Mujer","México"
+"1119","Artist","NamikoUR",,,,"Mujer","México"
+"1120","Artist","Nancy Valdez",,,,"Mujer","México"
+"1121","Artist","Nando Murio",,,,"Hombre","México"
+"1122","Artist","Nanzy Meh",,,,"Mujer","México"
+"1123","Artist","Nathalie Regard",,,,"Mujer","missing data"
+"1124","Artist","Nef Espino",,,,"Hombre","missing data"
+"1125","Artist","Neon Caron",,,,"Hombre","México"
+"1126","Artist","Nicolás Guzmán",,,,"Hombre","México"
+"1127","Artist","Nicolás Milhé",,,,"Hombre","Francia"
+"1128","Artist","Nicolás Romero Ever",,,,"Hombre","missing data"
+"1129","Artist","Nikko Rikko",,,,"Hombre","México"
+"1130","Artist","Niño Arte",,,,"Hombre","México"
+"1131","Artist","Nishizawa",,,,"Mujer","missing data"
+"1132","Artist","Nizzac Vallejo",,,,"Hombre","missing data"
+"1133","Artist","Nobs",,,,"Hombre","México"
+"1134","Artist","Noé Trejo",,,,"Hombre","México"
+"1135","Artist","Nonantzi Martínez",,,,"Mujer","México"
+"1136","Artist","Nora Elizondo Schmelkes",,,,"Mujer","missing data"
+"1137","Artist","Nora Medina",,,,"Mujer","México"
+"1138","Artist","Norberto Alvarado",,,,"Hombre","México"
+"1139","Artist","Obetre",,,,"Hombre","missing data"
+"1140","Artist","Odette Paz",,,,"Mujer","México"
+"1141","Artist","Oliver Esquivel",,,,"Hombre","México"
+"1142","Artist","Oliver Kennybrew",,,,"Hombre","missing data"
+"1143","Artist","Olivier Moisan Dufour",,,,"Hombre","Canadá"
+"1144","Artist","Omar Benitez Favela jamón",,,,"Hombre","México"
+"1145","Artist","Omar Jerez",,,,"Hombre","México"
+"1146","Artist","Omar Rodríguez",,,,"Hombre","México"
+"1147","Artist","Orlando Daniel",,,,"Hombre","México"
+"1148","Artist","Orlando Díaz",,,,"Hombre","México"
+"1149","Artist","Oscar Cabrera",,,,"Hombre","México"
+"1150","Artist","Oscar Gardea Duarte",,,,"Hombre","missing data"
+"1151","Artist","Oscar Odin",,,,"Hombre","México"
+"1152","Artist","Oscar Pablo Guzmán González",,,,"Hombre","México"
+"1153","Artist","Oscar Rafael Soto",,,,"Hombre","México"
+"1154","Artist","Osiel Guerrero",,,,"Hombre","México"
+"1155","Artist","OsLey",,,,"Hombre","missing data"
+"1156","Artist","Oswaldo Cedeño",,,,"Hombre","México"
+"1157","Artist","Oswaldo García",,,,"Hombre","México"
+"1158","Artist","Oswaldo Sagástegui",,,,"Hombre","México"
+"1160","Artist","Pablo Vargas Lugo",,,,"Hombre","missing data"
+"1161","Artist","Paloma Nuñez",,,,"Mujer","México"
+"1162","Artist","Pamela Olvera",,,,"Mujer","México"
+"1163","Artist","Paola Delfín",,,,"Mujer","México"
+"1164","Artist","Paola Ibarra",,,,"Mujer","México"
+"1165","Artist","Paola Sinai Castellanos Manzano",,,,"Mujer","México"
+"1166","Artist","Parkk",,,,"Mujer","missing data"
+"1167","Artist","Parole",,,,"Mujer","missing data"
+"1168","Artist","Pasquale Russo Maresca",,,,"Hombre","México"
+"1169","Artist","Patricia Arriola",,,,"Mujer","México"
+"1170","Artist","Patricia Coudurier",,,,"Mujer","México"
+"1171","Artist","PauletteJo",,,,"Mujer","México"
+"1172","Artist","Paulina Aguado",,,,"Mujer","México"
+"1173","Artist","Paulina Macías",,,,"Mujer","México"
+"1175","Artist","Pech Cawich",,,,"Hombre","missing data"
+"1176","Artist","Pedro Andrés",,,,"Hombre","México"
+"1177","Artist","Pedro Cerisola",,,,"Hombre","missing data"
+"1178","Artist","Pedro conP",,,,"Hombre","México"
+"1179","Artist","Pedro Friedberg",,,,"Hombre","México"
+"1180","Artist","Pedro Linares",,,,"Hombre","México"
+"1181","Artist","Pedro Moreno",,,,"Hombre","México"
+"1182","Artist","Pedro Reyes",,,,"Hombre","México"
+"1183","Artist","Pedro Urbina",,,,"Hombre","México"
+"1184","Artist","Per Anderson",,,,"Hombre","missing data"
+"1185","Artist","Perla Jiménez",,,,"Mujer","México"
+"1186","Artist","Peter Buggenhout",,,,"Hombre","missing data"
+"1187","Artist","Petrir Halilaj",,,,"Hombre","Kosovo"
+"1188","Artist","Piedad Martínez",,,,"Mujer","México"
+"1189","Artist","Pierre Huyghe",,,,"Hombre","missing data"
+"1190","Artist","Pierre Krause",,,,"Hombre","missing data"
+"1191","Artist","Pixie Ocampo",,,,"Mujer","México"
+"1192","Artist","Pogo",,,,"Hombre","México"
+"1193","Artist","Pruneda Huidobro",,,,"Mujer","México"
+"1194","Artist","Quirarte & Ornelas",,,,"Hombre","México"
+"1195","Artist","Rafael Interno Silva",,,,"Hombre","México"
+"1196","Artist","Rafael Lozano",,,,"Hombre","missing data"
+"1197","Artist","Rafael Lozano Hemmer",,,,"Hombre","missing data"
+"1198","Artist","Rafael Ontiveros",,,,"Hombre","México"
+"1199","Artist","Rafael Rodríguez",,,,"Hombre","México"
+"1200","Artist","Rafael Ruiz",,,,"Hombre","México"
+"1201","Artist","Rafael Ruiz Moreno",,,,"Hombre","México"
+"1202","Artist","Ramiro Chaves",,,,"Hombre","missing data"
+"1203","Artist","Ramón Durán",,,,"Hombre","missing data"
+"1204","Artist","Ramsés de la Cruz",,,,"Hombre","México"
+"1205","Artist","Ramsés Galvrod",,,,"Hombre","missing data"
+"1206","Artist","Randy Walz",,,,"Hombre","Estados Unidos"
+"1207","Artist","Raptor",,,,"Hombre","México"
+"1208","Artist","Raquel Palominos",,,,"Mujer","México"
+"1209","Artist","Rasaalimon",,,,"Hombre","México"
+"1210","Artist","Raúl Bello",,,,"Hombre","México"
+"1211","Artist","Raúl Campos",,,,"Hombre","missing data"
+"1212","Artist","Raúl Eduardo García",,,,"Hombre","México"
+"1213","Artist","Raúl Puente Zavala",,,,"Hombre","México"
+"1214","Artist","Raúl Sangrador",,,,"Hombre","México"
+"1215","Artist","Renata Martínez",,,,"Mujer","México"
+"1216","Artist","René de los Ríos",,,,"Hombre","México"
+"1217","Artist","Restituto Rodríguez",,,,"Hombre","México"
+"1218","Artist","Reyben",,,,"Hombre","México"
+"1219","Artist","Ricardo Guerrero",,,,"Hombre","México"
+"1220","Artist","Ricardo Mosterin",,,,"Hombre","México"
+"1221","Artist","Roberto Rosano",,,,"Hombre","México"
+"1222","Artist","Roberto Turmbull",,,,"Hombre","missing data"
+"1223","Artist","Roberto Ugalde",,,,"Hombre","México"
+"1224","Artist","Robie Espinoza",,,,"Hombre","missing data"
+"1225","Artist","Rocío Caballero",,,,"Mujer","México"
+"1226","Artist","Rocío Gordillo",,,,"Mujer","missing data"
+"1227","Artist","Rocío Pérez Vallejo",,,,"Mujer","México"
+"1228","Artist","Rocío Soto",,,,"Mujer","México"
+"1229","Artist","Rodolfo Díaz",,,,"Hombre","missing data"
+"1230","Artist","Rodolfo Obregón",,,,"Hombre","México"
+"1231","Artist","Rodrigo Cifuentes",,,,"Hombre","México"
+"1232","Artist","Rodrigo de la Sierra",,,,"Hombre","missing data"
+"1233","Artist","Rodrigo Lara",,,,"Hombre","México"
+"1234","Artist","Rodrigo Oñate",,,,"Hombre","México"
+"1235","Artist","Roger Von Gunten",,,,"Hombre","México"
+"1236","Artist","Rohel Cruz Calderón",,,,"Mujer","México"
+"1237","Artist","Rolando Sosa",,,,"Hombre","México"
+"1238","Artist","Román Miranda",,,,"Hombre","México"
+"1239","Artist","Román Montalvo",,,,"Hombre","México"
+"1240","Artist","Rosangela Rennó",,,,"Mujer","Brasil"
+"1241","Artist","Roxanne Najar",,,,"Mujer","México"
+"1242","Artist","Rubén Gutiérrez",,,,"Mujer","missing data"
+"1243","Artist","Rubén Maya",,,,"Hombre","México"
+"1244","Artist","Ruido Vervena",,,,"Hombre","México"
+"1245","Artist","Ryper",,,,"Hombre","México"
+"1246","Artist","Saddam Frausto",,,,"Hombre","México"
+"1247","Artist","Said Dokins",,,,"Hombre","México"
+"1248","Artist","Salvador Dalí",,,,"Hombre","España"
+"1249","Artist","Salvador Herrera",,,,"Hombre","México"
+"1250","Artist","Salvador Huerta",,,,"Hombre","México"
+"1251","Artist","Sam Durant",,,,"Hombre","Estados Unidos"
+"1252","Artist","Samantha Venegas",,,,"Mujer","México"
+"1253","Artist","Samurai Coyote Dead",,,,"Hombre","México"
+"1254","Artist","Sandra Medina",,,,"Mujer","México"
+"1255","Artist","Sangree",,,,"Hombre","México"
+"1256","Artist","Santiago Alarcón",,,,"Hombre","México"
+"1257","Artist","Santiago Boldó",,,,"Hombre","México"
+"1258","Artist","Santiago Borja",,,,"Hombre","missing data"
+"1259","Artist","Santiago Carbonell",,,,"Hombre","España"
+"1260","Artist","Santiago Diez",,,,"Hombre","México"
+"1261","Artist","Santiago Padilla",,,,"Hombre","missing data"
+"1262","Artist","Santiago Robles",,,,"Hombre","México"
+"1263","Artist","Sara Bonde",,,,"Mujer","missing data"
+"1264","Artist","Saúl Vázquez",,,,"Hombre","México"
+"1265","Artist","Saúl Villa",,,,"Hombre","México"
+"1266","Artist","Sayak Valencia",,,,"Mujer","España"
+"1267","Artist","Sebastián Fund",,,,"Hombre","México"
+"1268","Artist","Selene Monroy",,,,"Mujer","México"
+"1269","Artist","Sens",,,,"Hombre","México"
+"1270","Artist","Sergio Godoy",,,,"Hombre","México"
+"1271","Artist","Sergio Prego",,,,"Hombre","missing data"
+"1272","Artist","Sergio Toledo",,,,"Hombre","México"
+"1273","Artist","Sermob",,,,"Hombre","México"
+"1274","Artist","Sharon Lockhart",,,,"Mujer","Estados Unidos"
+"1275","Artist","Shinpei Takeda",,,,"Mujer","missing data"
+"1276","Artist","Silvia Gaona",,,,"Mujer","México"
+"1277","Artist","Silvia Silva",,,,"Mujer","México"
+"1278","Artist","Smithe",,,,"Hombre","México"
+"1279","Artist","Socorro López",,,,"Mujer","México"
+"1280","Artist","Spokey Dokey",,,,"Hombre","México"
+"1281","Artist","Stephany Fátima Vázquez",,,,"Mujer","México"
+"1282","Artist","Stephen Laphisophon",,,,"Hombre","missing data"
+"1283","Artist","Sue Acevedo",,,,"Mujer","México"
+"1284","Artist","Superflex",,,,"Hombre","Dinamarca"
+"1285","Artist","Susana del Rosario Castañeda",,,,"Mujer","México"
+"1286","Artist","Susana Ginebra",,,,"Mujer","missing data"
+"1287","Artist","Susana Rosas",,,,"Mujer","missing data"
+"1288","Artist","Susana Sánchez Huanosto",,,,"Mujer","missing data"
+"1289","Artist","Taiyo Miyake",,,,"Mujer","missing data"
+"1290","Artist","Talia Yáñez",,,,"Mujer","missing data"
+"1291","Artist","Tania Candiani",,,,"Mujer","México"
+"1292","Artist","Tania Quezada",,,,"Mujer","México"
+"1293","Artist","Tanya Schultz",,,,"Mujer","missing data"
+"1294","Artist","Teff Naranjo",,,,"Mujer","México"
+"1295","Artist","Tere Méndez",,,,"Mujer","México"
+"1296","Artist","Terence Gower",,,,"Hombre","missing data"
+"1297","Artist","Teresa Margolles",,,,"Mujer","México"
+"1298","Artist","Terror Visual",,,,"Hombre","México"
+"1299","Artist","Terry Luc",,,,"Hombre","México"
+"1300","Artist","Thomas Glassford",,,,"Hombre","Estados Unidos"
+"1301","Artist","Ticha González",,,,"Mujer","México"
+"1302","Artist","Tomas Gómez Robledo",,,,"Hombre","missing data"
+"1303","Artist","Tostón",,,,"Hombre","México"
+"1304","Artist","Tremiz",,,,"Hombre","México"
+"1305","Artist","Tresherrera",,,,"Hombre","México"
+"1306","Artist","Trinidad Osorio",,,,"Hombre","México"
+"1307","Artist","Tysa",,,,"Mujer","México"
+"1308","Artist","Uriel Marín",,,,"Hombre","México"
+"1309","Artist","Valensky Mata",,,,"Hombre","missing data"
+"1310","Artist","Valeria Pezza",,,,"Mujer","México"
+"1311","Artist","Vanessa Enríquez",,,,"Mujer","México"
+"1312","Artist","Verónica Trujillo",,,,"Mujer","México"
+"1313","Artist","Vicky Valkuks",,,,"Hombre","missing data"
+"1314","Artist","Víctor Cauduro",,,,"Hombre","México"
+"1315","Artist","Víctor Hugo Pérez",,,,"Hombre","México"
+"1316","Artist","Victor López",,,,"Hombre","México"
+"1317","Artist","Víctor Mora",,,,"Hombre","missing data"
+"1318","Artist","Violeta Hernández",,,,"Mujer","México"
+"1319","Artist","Virginia Colwell",,,,"Mujer","missing data"
+"1320","Artist","Virginia Ledesma",,,,"Mujer","México"
+"1321","Artist","Viviano",,,,"Hombre","missing data"
+"1322","Artist","Walf Attack",,,,"Hombre","México"
+"1323","Artist","Walter Cruz",,,,"Hombre","México"
+"1324","Artist","Warren McLachlan",,,,"Hombre","Canadá"
+"1325","Artist","Wilfredo Prieto",,,,"Mujer","México"
+"1326","Artist","William Leavitt",,,,"Hombre","Estados Unidos"
+"1327","Artist","William Nezme",,,,"Mujer","México"
+"1328","Artist","Wuero Ramos",,,,"Hombre","México"
+"1329","Artist","Xavier Aguilar",,,,"Hombre","México"
+"1330","Artist","Xavier Galván",,,,"Hombre","México"
+"1331","Artist","Xavier Pizarro",,,,"Hombre","México"
+"1332","Artist","Xawery Wolski",,,,"Mujer","Polonia"
+"1333","Artist","Xoffe",,,,"Hombre","México"
+"1334","Artist","Yael Martínez",,,,"Mujer","missing data"
+"1335","Artist","Yair Medina",,,,"Hombre","México"
+"1336","Artist","Yajisa Rangel Izunza",,,,"Mujer","México"
+"1337","Artist","Yann Gerstberger",,,,"Hombre","missing data"
+"1338","Artist","Yardley Flores",,,,"Mujer","missing data"
+"1339","Artist","Yorchi Medina",,,,"Mujer","missing data"
+"1340","Artist","Yoshua Okón",,,,"Hombre","missing data"
+"1341","Artist","Yuku Sasai",,,,"Mujer","missing data"
+"1342","Artist","Yvette Malo",,,,"Mujer","México"
+"1344","Artist","Isabel Lozada Sánchez",,,,"",""
+"1345","Artist","Carlos Rangel",,,,"",""
+"1346","Artist","Gabriela Hermed",,,,"",""
+"1347","Artist","Hernando Lozada",,,,"",""
+"1348","Artist","Ilse Gallardo Arvizu",,,,"",""
+"1349","Artist","Jorge Alberto Honzález",,,,"",""
+"1350","Artist","Juan Ricardo Rangel",,,,"",""
+"1351","Artist","Karla Mancilla",,,,"",""
+"1352","Artist","Leonor Pataki",,,,"",""
+"1353","Artist","Lucía Montalvo",,,,"",""
+"1354","Artist","Luis Sandoval",,,,"",""
+"1355","Artist","Sergio Padilla",,,,"",""
+"1356","Artist","Mariceu Erthal",,,,"",""
+"1357","Artist","Toribio Hokusai",,,,"",""
+"1358","Artist","Guillermo Martínez",,,,"",""
+"1359","Artist","Diego Zelaya",,,,"",""
+"1360","Artist","Patricia León",,,,"",""
+"1361","Artist","Gonzalo Pinilla",,,,"",""
+"1362","Artist","Aida Fernández Ramírez",,,,"",""
+"1363","Artist","Carlos Humberto Ramírez",,,,"",""
+"1364","Artist","Erick Rodríguez",,,,"",""
+"1365","Artist","Gabriela Durán",,,,"",""
+"1366","Artist","Guadalupe Martínez",,,,"",""
+"1367","Artist","Jonatan Edirson",,,,"",""
+"1368","Artist","Rocío Fuerte Antaramián",,,,"",""
+"1369","Artist","Selene Morales",,,,"",""
+"1370","Artist","Mauricio González Gómez",,,,"",""
+"1371","Artist","Roberto Carlos Macías",,,,"",""
+"1372","Artist","Roberto Ibarra",,,,"",""
+"1373","Artist","Rosalinda Guzmán",,,,"",""
+"1374","Artist","Luis Frías",,,,"",""
+"1375","Artist","Paulina Suárez",,,,"",""
+"1376","Artist","Sol Natividad",,,,"",""
+"1377","Artist","Demián Chávez",,,,"",""
+"1378","Artist","Elena Baca Suquet",,,,"",""
+"1379","Artist","Gabriela García Luna",,,,"",""
+"1380","Artist","Jorge Ramírez López",,,,"",""
+"1381","Artist","José Garza Torres",,,,"",""
+"1382","Artist","Manuel de los Ángeles Sosa",,,,"",""
+"1383","Artist","Mauricio Aveces Barba",,,,"",""
+"1384","Artist","Mauricio de la Vega",,,,"",""
+"1385","Artist","Miguel Ángel Rodríguez",,,,"",""
+"1386","Artist","Mónica Elisa Contreras",,,,"",""
+"1387","Artist","Paola Dávila Pineda",,,,"",""
+"1388","Artist","Edoardo Martesca",,,,"Hombre",""
+"1389","Artist","Dan Marte",,,,"",""
+"1390","Artist","Karen Arevir",,,,"",""
+"1391","Artist","Mary Gard",,,,"",""
+"1392","Artist","Paula Zubia",,,,"",""
+"1393","Artist","Angel Uriel Rocha",,,,"",""
+"1394","Artist","Jaqueline Ruiz",,,,"",""
+"1395","Artist","Rebeca Ruiz Escalona",,,,"",""
+"1396","Artist","Diego Sánchez Huitron",,,,"",""
+"1397","Artist","Abril Gutiérrez",,,,"",""
+"1398","Artist","Octavio Vargas Tapia",,,,"",""
+"1399","Artist","Rosa María Flores Watkins",,,,"",""
+"1400","Artist","Claudia Díaz",,,,"",""
+"1401","Artist","Javier Muñiz",,,,"",""
+"1402","Artist","Camila Muñoz",,,,"",""
+"1403","Artist","Teresa Orantes",,,,"",""
+"1404","Artist","Carmen Regalado",,,,"",""
+"1405","Artist","Francisco Rivera",,,,"",""
+"1406","Artist","Rodolfo Villavicencio",,,,"",""
+"1407","Artist","Lilia Ramírez",,,,"",""
+"1408","Artist","Carlos Lang",,,,"",""
+"1409","Artist","María Eugenia Suárez",,,,"",""
+"1410","Artist","Valerio Gámez",,,,"",""
+"1411","Artist","Lilian Muñoz",,,,"",""
+"1412","Artist","Alfonso López Monreal",,,,"",""
+"1414","Artist","Oswaldo Silva",,,,"",""
+"1415","Artist","María Nogueras",,,,"",""
+"1416","Artist","Adán Paredes",,,,"",""
+"1417","Artist","Efe de Froy",,,,"",""
+"1418","Artist","Enrique Oroz",,,,"Hombre",""
+"1419","Artist","Maximino Javier",,,,"",""
+"1420","Artist","Marielle García",,,,"",""
+"1421","Artist","Sandra del Pilar",,,,"",""
+"1422","Artist","Patricia Sánchez Saiffe",,,,"",""
+"1423","Artist","Abelardo López",,,,"",""
+"1424","Artist","Vladimir Cora",,,,"",""
+"1425","Artist","Iván Madrigal",,,,"Hombre",""
+"1426","Artist","Luigi Fantini",,,,"Hombre",""
+"1427","Artist","Pablo Llana",,,,"",""
+"1428","Artist","Sergio Hernández",,,,"",""
+"1429","Artist","Armando Romero",,,,"",""
+"1430","Artist","Rodrigo Caragarza",,,,"",""
+"1431","Artist","Arturo Montalvo",,,,"",""
+"1432","Artist","Adrián Paredes",,,,"Hombre",""
+"1433","Artist","COLECTIVA",,,,"Binarie",""
+"1434","Artist","Adrián Ruiz Esparza",,,,"Hombre","México"
+"1435","Artist","Adrián Bastarrachea",,,,"Hombre","México"
+"1436","Artist","Apolo Cacho",,,,"Hombre","México"
+"1437","Artist","Carlos Cea",,,,"Hombre","México"
+"1438","Artist","Pedro Castro",,,,"Hombre","México"
+"1439","Artist","Alfredo Mendoza",,,,"Hombre","México"
+"1440","Artist","Miguel Montes",,,,"Hombre","México"
+"1441","Artist","Rodolfo Rodríguez",,,,"Hombre","México"
+"1442","Artist","Luz Elena Murillo Vidales",,,,"Mujer","México"
+"1443","Artist","Andrés Santiago Quintana",,,,"Hombre","México"
+"1444","Artist","Ivonne Francine Rojo Audirac",,,,"Mujer","México"
+"1445","Artist","Omar Padilla",,,,"Hombre","México"
+"1446","Artist","Mario Juárez",,,,"Hombre","México"
+"1447","Artist","Ben Stephenson",,,,"Hombre","Reino Unido"
+"1448","Artist","Melissa Aristizabal",,,,"Mujer","Colombia"
+"1449","Artist","Dana Barbecho",,,,"Mujer","México"
